@@ -6,6 +6,8 @@ Status
 ------
 .. image:: https://img.shields.io/badge/status-under%20development-blue?style=flat
 
+**NOTE:** NOT READY YET
+
 
 What's here?
 ------------

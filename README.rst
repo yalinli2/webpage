@@ -18,4 +18,4 @@ Acknowledgement to me is appreciated but not required. If you really want to say
 
 Acknowledgements
 ----------------
-I got the inspiration from `Prof. Rao <https://raogroupuiuc.github.io/webpage/>`_ and `Prof. Allan's lab website <http://www.allanlab.org/aboutwebsite.html>`_. Tania Rascia's awesome `tutorial <https://www.taniarascia.com/make-a-static-website-with-jekyll/>`_ helped me pick up ``jekyll``.
+I got the inspiration from webpages of `Prof. Rao <https://raogroupuiuc.github.io/webpage/>`_ and `Prof. Allan <http://www.allanlab.org/aboutwebsite.html>`_. Tania Rascia's awesome `tutorial <https://www.taniarascia.com/make-a-static-website-with-jekyll/>`_ helped me pick up ``jekyll``.

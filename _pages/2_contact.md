@@ -6,4 +6,4 @@ permalink: /contact/
 
 Contact content goes here.
 
-Email: [yalinli2@illinois.edu](mailto:yalinli2@illinois.edu)
+Email: [zoe.yalin.li@gmail.com](mailto:zoe.yalin.li@gmail.com)

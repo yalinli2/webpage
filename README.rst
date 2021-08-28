@@ -1,6 +1,6 @@
-=================================================
-webtemp: Template to make static personal webpage
-=================================================
+==============================
+Welcome to my personal webpage
+==============================
 
 Status
 ------
@@ -9,9 +9,9 @@ Status
 
 What's here?
 ------------
-This repository contains the source codes used to generate the personal website of `Yalin Li <mailto:zoe.yalin.li@gmail.com>`_ (under the site folder). You are welcome to fork this repository and use for your personal sites. Feel free to post GitHub issues for questions or just chat.
+This repository contains the source codes used to generate the personal website of `Yalin Li <mailto:zoe.yalin.li@gmail.com>`_. You are welcome to fork this repository and use for your personal sites. Feel free to post GitHub issues for questions or just chat.
 
-Acknowledgement to me is appreciated but not required. If you really want to say thank you, take a bus trip instead of driving, and say thank to the bus driver.
+Acknowledgement to me is appreciated but not required. If you really want to say thank you, take a bus trip instead of driving, and say thank you to the bus driver.
 
 
 Acknowledgements

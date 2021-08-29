@@ -18,8 +18,8 @@ Acknowledgement to me is appreciated but not required. If you really want to say
 
 Tips
 ----
-sass
-^^^^
+Text editors
+^^^^^^^^^^^^
 For editors, I use `Sublime Text <https://www.sublimetext.com>`_ for everyone lanauges it supports; for CSS/Sass that it doesn't support, I use an online editor `SassMesiter <https://www.sassmeister.com>`_ (maybe will explore a desktop version if use CSS/Sass for other purposes in the future).
 
 

@@ -3,3 +3,13 @@
 ---
 
 @import 'base', 'layout', 'syntax-highlighting';
+
+p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+}

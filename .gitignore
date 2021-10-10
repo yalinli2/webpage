@@ -31,8 +31,6 @@ _site
 **/_demo.py
 **/.ipynb_checkpoints
 **/.pylint.d
-docs/tutorial/.ipynb_checkpoints
-docs/.ipynb_checkpoints
 docs/build/*
 
 # Compiled source #

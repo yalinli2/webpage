@@ -9,7 +9,19 @@ p {
   text-justify: inter-word;
 }
 
-img[src*='#center'] { 
+hr {
+  border-top: 4px #999;
+}
+
+singlehr {
+  # border-bottom: 4px double #333;
+  border-top: 4px double;
+  # padding: 10px 0;
+}
+
+img[src*='#TOC'] { 
     display: block;
     margin: auto;
+    align: center;
+    width: 50%;
 }

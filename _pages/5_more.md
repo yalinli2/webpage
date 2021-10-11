@@ -4,8 +4,10 @@ title: More
 permalink: /more/
 ---
 
-Other interests.
+Proposals:
 
-Things that I like but still not good at:
-- Snowboarding
-- Skateboarding (terrible, to be precise)
+
+Professional activities:
+
+- ACS symposium
+- 

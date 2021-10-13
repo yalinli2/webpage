@@ -25,3 +25,8 @@ img[src*='#TOC'] {
     align: center;
     width: 50%;
 }
+
+img + em {
+  text-align: center;
+  text-decoration: underline;
+}

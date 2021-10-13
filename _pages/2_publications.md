@@ -4,13 +4,15 @@ title: Publications
 permalink: /publications/
 ---
 
-### Peer-reviewed papers
+## Peer-reviewed papers
 
 This list was updated on October 2021, for the most up-to-date list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en) page.
 
 <br>
 
-**12.** [Vapor-Phase Catalytic Conversion of Aqueous 3-Hydroxybutyric Acid and Crotonic Acid to Propylene](https://doi.org/10.1039/D1CY01152A)
+### 2021
+
+`12.` [Vapor-Phase Catalytic Conversion of Aqueous 3-Hydroxybutyric Acid and Crotonic Acid to Propylene](https://doi.org/10.1039/D1CY01152A)
 
 ![TOC figure](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D1CY01152A&imageInfo.ImageIdentifier.Year=2021#TOC)
 
@@ -21,7 +23,7 @@ S. Leow, A. J. Koehler, L. E. Cronmiller, X. Huo, G. D. Lahti, **Y. Li**, G. R. 
 
 ---
 
-**11.** [Solids Residence Time Impacts Carbon Dynamics and Bioenergy Feedstock Potential in Phototrophic Wastewater Treatment Systems](https://doi.org/10.1021/acs.est.1c02590)
+`11.` [Solids Residence Time Impacts Carbon Dynamics and Bioenergy Feedstock Potential in Phototrophic Wastewater Treatment Systems](https://doi.org/10.1021/acs.est.1c02590)
 
 ![TOC figure](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/esthag/2021/esthag.2021.55.issue-18/acs.est.1c02590/20210914/images/medium/es1c02590_0006.gif#TOC)
 
@@ -31,7 +33,7 @@ Bradley, **Y. Li**, and J. S. Guest. *Environ. Sci. Technol.*, **2021**, *55* (1
 
 ---
 
-**10.** [Catalytic Hydrothermal Deoxygenation of Lipids and Fatty Acids to Diesel-like Hydrocarbons: A Review](https://pubs.rsc.org/en/content/articlelanding/2021/gc/d0gc03707a)
+`10.` [Catalytic Hydrothermal Deoxygenation of Lipids and Fatty Acids to Diesel-like Hydrocarbons: A Review](https://pubs.rsc.org/en/content/articlelanding/2021/gc/d0gc03707a)
 
 ![TOC figure](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D0GC03707A&imageInfo.ImageIdentifier.Year=2021#TOC)
 
@@ -41,7 +43,7 @@ X. Yao, T. J. Strathmann, **Y. Li**, L. E.Cronmiller, H. Ma, and J. Zhang. *Gree
 
 ---
 
-**9.** [Sustainable Lactic Acid Production from Lignocellulosic Biomass](https://doi.org/10.1021/acssuschemeng.0c08055)
+`9.` [Sustainable Lactic Acid Production from Lignocellulosic Biomass](https://doi.org/10.1021/acssuschemeng.0c08055)
 
 ![TOC figure](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/ascecg/2021/ascecg.2021.9.issue-3/acssuschemeng.0c08055/20210115/images/medium/sc0c08055_0007.gif#TOC)
 
@@ -51,7 +53,11 @@ Sustainable design of lignocellulosic biorefineries for lactic acid production w
 
 ---
 
-**8.** [Fate of Per- and Polyfluoroalkyl Substances (PFAS) during Hydrothermal Liquefaction of Municipal Wastewater Treatment Sludge](https://pubs.rsc.org/en/content/articlelanding/2020/ew/c9ew01139k)
+<br>
+
+### 2020
+
+`8.` [Fate of Per- and Polyfluoroalkyl Substances (PFAS) during Hydrothermal Liquefaction of Municipal Wastewater Treatment Sludge](https://pubs.rsc.org/en/content/articlelanding/2020/ew/c9ew01139k)
 
 ![TOC figure](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C9EW01139K&imageInfo.ImageIdentifier.Year=2020#TOC)
 
@@ -61,7 +67,11 @@ J. Yu, A. Nickerson, **Y. Li**, Y. Fang, and T. J. Strathmann. *Environ. Sci.: W
 
 ---
 
-**7.** [Kinetics and Mechanism for Hydrothermal Conversion of Polyhydroxybutyrate (PHB) for Wastewater Valorization](https://pubs.rsc.org/en/content/articlelanding/2019/gc/c9gc02507c)
+<br>
+
+### 2019
+
+`7.` [Kinetics and Mechanism for Hydrothermal Conversion of Polyhydroxybutyrate (PHB) for Wastewater Valorization](https://pubs.rsc.org/en/content/articlelanding/2019/gc/c9gc02507c)
 
 ![TOC figure](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C9GC02507C&imageInfo.ImageIdentifier.Year=2019#TOC)
 
@@ -71,7 +81,7 @@ Investigation of reaction mechanism and development of a kinetic network model f
 
 ---
 
-**6.** [Catalytic Hydrothermal Decarboxylation and Cracking of Fatty Acids and Lipids over Ru/C](https://doi.org/10.1021/acssuschemeng.9b00215)
+`6.` [Catalytic Hydrothermal Decarboxylation and Cracking of Fatty Acids and Lipids over Ru/C](https://doi.org/10.1021/acssuschemeng.9b00215)
 
 ![TOC figure](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/ascecg/2019/ascecg.2019.7.issue-17/acssuschemeng.9b00215/20190826/images/medium/sc9b00215_0010.gif#TOC)
 
@@ -81,7 +91,7 @@ J. Zhang, X. Huo, **Y. Li**, and T. J. Strathmann. *ACS Sustainable Chem. Eng.*,
 
 ---
 
-**5.** [Seasonal Treatment and Economic Evaluation of an Algal Wastewater System for Energy and Nutrient Recovery](https://pubs.rsc.org/en/content/articlelanding/2019/ew/c9ew00242a)
+`5.` [Seasonal Treatment and Economic Evaluation of an Algal Wastewater System for Energy and Nutrient Recovery](https://pubs.rsc.org/en/content/articlelanding/2019/ew/c9ew00242a)
 
 ![TOC figure](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C9EW00242A&imageInfo.ImageIdentifier.Year=2019#TOC)
 
@@ -91,7 +101,7 @@ Evaluation of the treatment efficacy and economic performance of an algal wastew
 
 ---
 
-**4.** [Demonstration and Evaluation of Hybrid Microalgae Aqueous Conversion Systems for Biofuel Production](https://doi.org/10.1021/acssuschemeng.8b05741)
+`4.` [Demonstration and Evaluation of Hybrid Microalgae Aqueous Conversion Systems for Biofuel Production](https://doi.org/10.1021/acssuschemeng.8b05741)
 
 ![TOC figure](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/ascecg/2019/ascecg.2019.7.issue-6/acssuschemeng.8b05741/20190311/images/medium/sc-2018-057418_0007.gif#TOC)
 
@@ -101,7 +111,11 @@ Experiments and model predictions show increased algal biofuel yields at lower p
 
 ---
 
-**3.** [A Unified Modeling Framework to Advance Biofuel Production from Microalgae](https://doi.org/10.1021/acs.est.8b03663)
+<br>
+
+### 2018
+
+`3.` [A Unified Modeling Framework to Advance Biofuel Production from Microalgae](https://doi.org/10.1021/acs.est.8b03663)
 
 ![TOC figure](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/esthag/2018/esthag.2018.52.issue-22/acs.est.8b03663/20181113/images/medium/es-2018-03663d_0005.gif#TOC)
 
@@ -111,7 +125,7 @@ S. Leow, B. D. Shoener, **Y. Li**, J. L. DeBellis, J. Markham, R. Davis, L. M. L
 
 ---
 
-**2.** [Quantitative Evaluation of an Integrated System for Valorization of Wastewater Algae as Bio-Oil, Fuel Gas, and Fertilizer Products](https://pubs.acs.org/doi/full/10.1021/acs.est.8b04035)
+`2.` [Quantitative Evaluation of an Integrated System for Valorization of Wastewater Algae as Bio-Oil, Fuel Gas, and Fertilizer Products](https://pubs.acs.org/doi/full/10.1021/acs.est.8b04035)
 
 ![TOC figure](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/esthag/2018/esthag.2018.52.issue-21/acs.est.8b04035/20181030/images/medium/es-2018-04035u_0007.gif#TOC)
 
@@ -121,7 +135,11 @@ Design, demonstration, and economic anlaysis of an aqueous-based system for the 
 
 ---
 
-**1.** [Quantitative Multiphase Model for Hydrothermal Liquefaction of Algal Biomass](https://pubs.rsc.org/en/content/articlelanding/2017/gc/c6gc03294j)
+<br>
+
+### 2017
+
+`1.` [Quantitative Multiphase Model for Hydrothermal Liquefaction of Algal Biomass](https://pubs.rsc.org/en/content/articlelanding/2017/gc/c6gc03294j)
 
 ![TOC figure](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C6GC03294J&imageInfo.ImageIdentifier.Year=2017#TOC)
 
@@ -133,8 +151,8 @@ A multiphase component additivity (MCA) model to quantitatively predict both yie
 
 <br>
 
-### Public Media
+## Public Media
 
-**1.** [Wastewater is an asset – it contains nutrients, energy and precious metals, and scientists are learning how to recover them](https://theconversation.com/wastewater-is-an-asset-it-contains-nutrients-energy-and-precious-metals-and-scientists-are-learning-how-to-recover-them-113264). 
+`1.` [Wastewater is an asset – it contains nutrients, energy and precious metals, and scientists are learning how to recover them](https://theconversation.com/wastewater-is-an-asset-it-contains-nutrients-energy-and-precious-metals-and-scientists-are-learning-how-to-recover-them-113264). 
 
 **Y. Li.**, *The Conversation*, 2019.

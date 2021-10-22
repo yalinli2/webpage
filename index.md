@@ -5,6 +5,15 @@
 layout: home
 ---
 
+<img src='../images/headshot.jpg' alt='Headshot of Yalin' width='50%' id='image' align='center'>
+
+<b>Yalin Li</b>
+- Ph.D., Environmental Engineering, Colorado School of Mines, 2019
+- M.S., Environmental Engineering, University of Illinois at Urbana-Champaign, 2015
+- B.Eng., Environmental Engineering, Tongji University, 2014
+
+<br>
+
 Welcome to my site!
 
 I am currently a postdoctoral researcher in the [Guest Group](http://engineeringforsustainability.com) at the [University of Illinois at Urbana-Champaign (UIUC)](http://illinois.edu). I am affiliated with the [Institute of Sustainability, Energy, and Environment (iSEE)](https://sustainability.illinois.edu) and the [Center for Advanced Bioenergy and Bioproduct Innovation (CABBI)](https://cabbi.bio) at UIUC. I got my Bachelor degree from [Tongji University](https://www.tongji.edu.cn), my Master from UIUC, and my Doctorate from [Colorado School of Mines](https://www.mines.edu) (with [Prof. Strathmann](https://strathmanngroup.com)).

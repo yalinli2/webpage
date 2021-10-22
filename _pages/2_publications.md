@@ -19,7 +19,7 @@ This list was updated on October 2021, for the most up-to-date list, please refe
 
 Vapor-phase dehydration and decarboxylation of polyhydroxybutyrate-derived monomer acids (3-hydroxybutyric acid and crotonic acid) to propylene over solid acid catalysts using a packed-bed continuous-flow reactor for dilute waste carbon valorization.
 
-S. Leow, A. J. Koehler, L. E. Cronmiller, X. Huo, G. D. Lahti, **Y. Li**, G. R. Hafenstine, D. R. Vardon, and T. J. Strathmann. *Catal. Sci. Technol.*, **2021**, *Advance Article*.
+S. Leow, A. J. Koehler, L. E. Cronmiller, X. Huo, G. D. Lahti, **Y. Li**, G. R. Hafenstine, D. R. Vardon, and T. J. Strathmann. *Catal. Sci. Technol.*, **2021**, *11* (20), 6866–6876.
 
 ---
 

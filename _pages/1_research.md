@@ -12,8 +12,11 @@ My research seeks to advance the sustainability of engineered systems through ex
 
 <br>
 
+
 <img src='../images/overarching.png' alt='Overarching figure' width='100%' id='image'>
-*Overarching scheme of my research.*
+<br>
+<center> <i> Overarching scheme of my research. </i> </center>
+
 
 ---
 

@@ -20,7 +20,7 @@ Tips
 ----
 Text editors
 ^^^^^^^^^^^^
-For editors, I use `Sublime Text <https://www.sublimetext.com>`_ for everyone lanauges it supports; for CSS/Sass that it doesn't support, I use an online editor `SassMesiter <https://www.sassmeister.com>`_ if I really want the rendering, maybe will explore a desktop version if use CSS/Sass for other purposes in the future.
+For editors, I use `Sublime Text <https://www.sublimetext.com>`_ and found `Atom <https://atom.io>`_ to be a good free and open-source alternative.
 
 
 ``jekyll`` versions

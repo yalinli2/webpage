@@ -5,16 +5,23 @@
 layout: home
 ---
 
-<img src='../images/headshot.jpg' alt='Headshot of Yalin' width='50%' id='image' align='center'>
+<table>
 
-<b>Yalin Li</b>
-- Ph.D., Environmental Engineering, Colorado School of Mines, 2019
-- M.S., Environmental Engineering, University of Illinois at Urbana-Champaign, 2015
-- B.Eng., Environmental Engineering, Tongji University, 2014
+<tr>
+	<td rowspan='5' width='50%'>
+		<img src='../images/headshot.jpg' alt='Headshot of Yalin' width='90%' id='image' align='center'>
+	</td>
+	<td> <h3> Education </h3> </td>
+</tr>
 
-<br>
+<tr> <td> <li> Ph.D., Environmental Engineering, Colorado School of Mines, 2019 </li> </td> </tr>
+<tr> <td> <li> M.S., Environmental Engineering, University of Illinois at Urbana-Champaign, 2015 </li> </td> </tr>
+<tr> <td> <li> B.Eng., Environmental Engineering, Tongji University, 2014 </li> </td> </tr>
+<tr> <td> <br> </td> </tr>
 
-Welcome to my site!
+</table> 
+
+Welcome to my website!
 
 I am currently a postdoctoral researcher in the [Guest Group](http://engineeringforsustainability.com) at the [University of Illinois at Urbana-Champaign (UIUC)](http://illinois.edu). I am affiliated with the [Institute of Sustainability, Energy, and Environment (iSEE)](https://sustainability.illinois.edu) and the [Center for Advanced Bioenergy and Bioproduct Innovation (CABBI)](https://cabbi.bio) at UIUC. I got my Bachelor degree from [Tongji University](https://www.tongji.edu.cn), my Master from UIUC, and my Doctorate from [Colorado School of Mines](https://www.mines.edu) (with [Prof. Strathmann](https://strathmanngroup.com)).
 

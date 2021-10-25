@@ -1,13 +1,14 @@
-$content-width: 800px;
+$content-width: 1000px;
 $main: #ffffff;
 $font-style: 'Open Sans', sans-serif;
 $font-color: #262626;
 $link-color: #212121;
-$link-hover-color: #424242;;
+$link-hover-color: #424242;
 $heading-font: 'Muli', sans-serif;
 $heading-font-color: #262626;
 $light: #e7edf4;
-$header: $link-hover-color;
+$header: $main;
+/* $header: $link-hover-color;*/
 
 *,
 *::before,

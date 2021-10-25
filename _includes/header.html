@@ -1,20 +1,20 @@
 <header>
-	<h1><a href="{{ site.baseurl }}">{{ site.title }}</a></h1>
+	<h1>Yalin Li</h1>
 </header>
 
 <aside>
+	<!--
+	<div>  Yalin Li </div>
+	-->
 	<div class="container">
 		<nav>
 			<ul>
+				<!-- the index/home page -->
+				<li><a href="{{ "/index" | prepend: site.baseurl }}">Home</a></li>
+				<!-- other content pages -->
 				{% for page in site.pages %} {% if page.title %}
 				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
 				{% endif %} {% endfor %}
-
-				<!-- If want additional folder (e.g., blog)
-				<li><a href="{{ "/blog" | prepend: site.baseurl }}">Blog</a></li>
-							</ul>
-							</li>
-				-->
 			</ul>
 		</nav>
 	</div>

@@ -21,7 +21,6 @@ monkeytype.sqlite3
 
 # Jekyll #
 ##########
-_site
 .sass-cache
 .jekyll-metadata
 

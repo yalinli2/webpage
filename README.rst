@@ -5,11 +5,12 @@ Welcome to Yalin Li's webpage
 Status
 ------
 .. image:: https://img.shields.io/badge/status-live-brightgreen?style=flat
+   :target: http://yalinli2.github.io/webpage
 
 
 What's here?
 ------------
-This repository contains the source codes used to generate the personal website of `Yalin Li <mailto:zoe.yalin.li@gmail.com>`_. You are welcome to fork this repository and use for your personal sites. Feel free to post GitHub issues for questions or just chat.
+This repository contains the source codes used to generate the `personal website <http://yalinli2.github.io/webpage>`_ of `Yalin Li <mailto:zoe.yalin.li@gmail.com>`_. You are welcome to fork this repository and use for your personal sites. Feel free to post GitHub issues for questions or just chat.
 
 Acknowledgement to me is appreciated but not required. If you really want to say thank you, take a bus trip instead of driving, and say thank you to the bus driver.
 

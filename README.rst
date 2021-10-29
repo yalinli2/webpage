@@ -1,12 +1,10 @@
-==============================
-Welcome to my personal webpage
-==============================
+=============================
+Welcome to Yalin Li's webpage
+=============================
 
 Status
 ------
-.. image:: https://img.shields.io/badge/status-under%20development-blue?style=flat
-
-**NOTE:** NOT READY YET
+.. image:: https://img.shields.io/badge/status-live-brightgreen?style=flat
 
 
 What's here?

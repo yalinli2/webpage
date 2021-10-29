@@ -13,7 +13,7 @@ My research seeks to advance the sustainability of engineered systems through ex
 <br>
 
 
-<img src='../images/overarching.png' alt='Overarching figure' width='100%' id='image'>
+<img src='https://github.com/yalinli2/webpage/blob/gh-pages/images/overarching.png' alt='Overarching figure' width='100%' id='image'>
 <br>
 <center> <i> Overarching scheme of my research. </i> </center>
 

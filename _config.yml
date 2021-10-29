@@ -31,6 +31,7 @@ sass:
   sass_dir: _sass
 include: [
   '_pages/*',
+  'css/*',
   'images/*',
   'images/logos/*',
 ]

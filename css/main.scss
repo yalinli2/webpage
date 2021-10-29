@@ -26,6 +26,12 @@ img[src*='#TOC'] {
     width: 50%;
 }
 
+img[src*='#center'] { 
+    display: block;
+    margin: auto;
+    align: center;
+}
+
 /* Cannot override the setting in `p` tag
 img + em {
   text-align: center;

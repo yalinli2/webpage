@@ -15,7 +15,7 @@ The goal of this course is to introduce students to the fundamental principles t
 Key course topics include the thermodynamic and kinetic basis for the composition of aquatic systems, chemical equilibrium, acid-base chemistry, aqueous/gas partitioning, alkalinity and pH buffering, metal speciation and precipitation, redox reactions, and sorption processes. Analytical and numerical approaches to solving chemical problems will be illustrated using topics of interest to environmental engineers and scientists.
 
 <br>
-<img src='../images/sorption.png' alt='Sorption module' width='100%' id='image'>
+<img src='https://github.com/yalinli2/webpage/blob/gh-pages/images/sorption.png' alt='Sorption module' width='100%' id='image'>
 <center> <i> Course materials I developed for the Sorption module. </i> </center>
 
 ---

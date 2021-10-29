@@ -9,7 +9,7 @@ layout: index
 
 <tr>
 	<td rowspan='5' width='50%'>
-		<img src='../images/headshot.jpg' alt='Headshot of Yalin' width='90%' id='image' align='center'>
+		<img src='https://github.com/yalinli2/webpage/blob/gh-pages/images/headshot.jpg' alt='Headshot of Yalin' width='90%' id='image' align='center'>
 	</td>
 	<td> <h3> Education </h3> </td>
 </tr>

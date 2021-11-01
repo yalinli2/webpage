@@ -30,6 +30,9 @@ permalink: /more/
 #### Lead Organizer, ACS Division of Environmental Chemistry Symposium (2020).
 Leading the organization of symposium Sustainable Technologies for a Circular Economy: From Benchtop Experimentation through System Analyses at Fall 2020 ACS National Meeting & Exposition.
 
+<img src='https://yalinli2.github.io/webpage/images/more/acs_symposium.png#center' alt='ACS symposium' width='80%' id='image'>
+<center> <i> Schedule of the organized ACS symposium. </i> </center>
+
 #### Service Fellow, ACS Division of Environmental Chemistry (2018).
 Facilitate the organization of division activities at Fall 2018 ACS National Meeting & Exposition and prepared materials to solicit award sponsors.
 
@@ -49,14 +52,14 @@ I have organized and participated in many education and outreach activities, inc
 
 For example, I was one of the organizers and instructors for the Girls’ Adventures in Mathematics, Engineering, and Sciences (G.A.M.E.S) camp at UIUC, where I developed the learning program (course materials and experiment sessions) and instructed the “Renewable Energy-Biofuels” session.
 
-<img src='https://yalinli2.github.io/webpage/images/GAMES.png#center' alt='GAMES biofuel session' width='80%' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/more/GAMES.png#center' alt='GAMES biofuel session' width='80%' id='image'>
 <center> <i> The biofuel session (algal biofuel and protein test) I created and instructed for the GAMES camp. </i> </center>
 
 <br>
 
 I represented ReNUWIt in the Orange County Children’s Water Education Festival, where I co-organized and presented the City Stormwater Design Challenge Program. This two-day festival attracted more than 122,000 children in total, and 300-400 children participated in the ReNUWIt program.
 
-<img src='https://yalinli2.github.io/webpage/images/OCWF.jpg#center' alt='Orange County Water Festival' width='50%' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/more/OCWF.jpg#center' alt='Orange County Water Festival' width='50%' id='image'>
 <center> <i> Explaining to kids at the Orange County Water Festival how to deisng a city's storm water system. </i> </center>
 
 ---
@@ -67,6 +70,6 @@ I represented ReNUWIt in the Orange County Children’s Water Education Festival
 
 As a self-trained programmer, the more I learn about coding, the more powerful I find it to be. Just like research, learning and mastering a new language can be extremely frustrating, but it brings a great sense of achievement when you manage to struggle through the barrieres and make it (e.g., when I see this website live online).
 
-I also enjoy the nature and especially likes hiking, as you can tell from the cover pictures on top of each page and the collage below, they were mostly taken when I was doing my Ph.D. in Colorado, purely breath-taking.
+I also enjoy the nature and especially like hiking, as you can tell from the cover pictures on each page and the collage below, they were mostly taken when I was doing my Ph.D. in Colorado, purely breath-taking.
 
-<img src='https://yalinli2.github.io/webpage/images/mountains.png#center' alt='Mountains' width='100%' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/more/mountains.png#center' alt='Mountains' width='100%' id='image'>

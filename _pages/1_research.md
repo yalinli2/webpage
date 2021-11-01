@@ -12,11 +12,9 @@ My research seeks to advance the sustainability of engineered systems through ex
 
 <br>
 
-
-<img src='https://yalinli2.github.io/webpage/images/overarching.png' alt='Overarching figure' width='100%' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/research/overarching.png' alt='Overarching figure' width='100%' id='image'>
 <br>
 <center> <i> Overarching scheme of my research. </i> </center>
-
 
 ---
 
@@ -59,6 +57,42 @@ I am the ***creator & lead developer*** for the QSDsan platform, which is built 
 <img src='https://biosteam.readthedocs.io/en/latest/_images/BioSTEAM_logo.png#center' alt='BioSTEAM logo' width='30%' id='image'>
 
 I am also a ***core developer*** of the BioSTEAM ([source code](https://github.com/BioSTEAMDevelopmentGroup/biosteam), [documentation](https://biosteam.readthedocs.io)), which is an open-source tool in Python for system design, simulation, and TEA for biorefineries under uncertainty. It has been used in multiple studies to assess the sustainability of novel feedstocks and emerging bioproducts.
+
+---
+
+<br>
+
+### Current Projects
+
+#### Sanitation and Resource Recovery Systems
+
+With the QSDsan platform, I am exploring the sustainability of resource recovery-based systems to increase the safeness and access to sanitation service considering (i) different location-specific contextual parameters, as well as (ii) stakeholder priorities through multi-criteria decision analysis (MCDA).
+
+<img src='https://yalinli2.github.io/webpage/images/research/bwaise.png#center' alt='Sanitation systems in Bwaise' width='80%' id='image'>
+
+*QSDsan-simulated cost and global warming potential of three sanitation systems in Bwaise, Uganda, as described in [Trimmer et al., 2020](https://doi.org/10.1021/acs.est.0c03296).*
+
+<br>
+
+#### Sustainable Biorefineries
+
+To prioritize the research needs for innovative biofuels and bioproducts, I am investigating the economic viability and environmental impacts of novel feedstocks (e.g., oilcane, metabolically engineered sugarcane with elevated triacylglycerol contents) and emerging bioproducts (e.g., [lactic acid](https://pubs.acs.org/doi/10.1021/acssuschemeng.0c08055), 3-hydroxypropionic acid, triacetic acid lactone) across a wide technological landscape with the BioSTEAM platform. 
+
+Moreover, with my background in resource recovery, I am renovating the wastewater treatment process in biorefineries with high-rate technologies (e.g., anaerobic membrane bioreactor, AnMBR) to lower the footprint and enhance the plant energy recovery for more sustainable biorefineries.
+
+<img src='https://yalinli2.github.io/webpage/images/research/lactic_acid.png#center' alt='Lactic acid MPSP' width='50%' id='image'>
+
+*BioSTEAM-simulated minimum product selling price (MPSP) of lignocellulose-derived lactic acid from (A) neutral and (B) low-pH fermentation across feasible fermentation titer and yield combinations, [Li et al., 2021](https://pubs.acs.org/doi/10.1021/acssuschemeng.0c08055).*
+
+<br>
+
+#### Biobased Value Chain
+
+This project aims to establish an automated data-processing and information hand-off framework to connect the different modeling platforms (e.g., the ecosystem model [DayCent](https://www2.nrel.colostate.edu/projects/daycent/)) across the biobased value chain, thus enabling high-resolution (i.e., contextually resolved and sensitive to technological advancements) economic and environmental sustainability analysis of bioenergy and bioproducts through TEA and LCA.
+
+<img src='https://yalinli2.github.io/webpage/images/research/value_chain.png#center' alt='Connections and data flows across the modeling platforms' width='80%' id='image'>
+
+*Connecting modeling platforms across the biobased value chain for high-resolution TEA and LCA.*
 
 ---
 

@@ -12,13 +12,29 @@ Selected conference presentations.
 
 `21.` **<u>Y. Li</u>**, <u>X. Zhang</u>, L. S. Rowles, V. L. Morgan, H. A. C. Lohman, S. Mittal, A. Kogler, S. E. Aguiar, W. A. Tarpeh, R. D. Cusick, J. S. Guest. An Integrated Platform for Quantitative Sustainable Design of Sanitation and Resource Recovery Systems under Uncertainty (Poster). *IWA Water Resources Recovery Modelling Conference (Virtual)*. August 21-25, 2021.
 
+<img src='https://yalinli2.github.io/webpage/images/presentations/WRRmod.png#TOC' alt='WRRmod presentation' id='image'>
+
+<br>
+
 `20.` **<u>Y. Li</u>**, G. A. Kontos, N. Avila, D. V. Cabrera, M. Viswanathan, V. Singh, R. A. Labatut, and J. S. Guest. Design of a Small-footprint Wastewater Treatment and Energy Recovery Process for Biorefineries. *International Conference on Resource Sustainability (Virtual)*, July 19-23, 2021.
 
-`19.` **<u>Y. Li</u>**. Advancing the Sustainability of Engineered Systems through Experimentation and Quantitative Sustainable Design (QSD) (Invited talk). *AEESP AJAR Future Faculty Seminar Series (Virtual)*. March 12, 2021.
+<img src='https://yalinli2.github.io/webpage/images/presentations/icRS.png#TOC' alt='icRS presentation' id='image'>
+
+<br>
+
+`19.` **<u>Y. Li</u>**. Advancing the Sustainability of Engineered Systems through Experimentation and Quantitative Sustainable Design (QSD) (Invited talk). *AEESP AJAR Future Faculty Seminar Series (Virtual)*. March 12, 2021. [YouTube link](https://www.youtube.com/watch?v=IUAvIS0r8NE).
+
+<img src='https://yalinli2.github.io/webpage/images/presentations/AJAR.png#TOC' alt='AJAR presentation' id='image'>
+
+<br>
 
 ### 2020
 
 `18.` **<u>Y. Li</u>**, S. S. Bhagwat, Y. Cortes-Peña, D. Ki, C. V. Rao, Y.-S. Jin, and J. S. Guest, Sustainable Lactic Acid Production from Lignocellulosic Biomass. *2nd Bioenergy Sustainability Conference (Virtual)*, October 13-15, 2020.
+
+<img src='https://yalinli2.github.io/webpage/images/presentations/BSC_2020.png#TOC' alt='BSC presentation' id='image'>
+
+<br>
 
 `17.` **<u>Y. Li</u>**, S. S. Bhagwat, Y. Cortes-Peña, D. Ki, C. V. Rao, Y.-S. Jin, and J. S. Guest, Evaluating the Sustainability of Lactic Acid Production from Lignocellulosic Biomass. *ACS Fall 2020 Virtual Meeting & Expo*, August 17-20, 2020.
 
@@ -28,15 +44,27 @@ Selected conference presentations.
 
 `15.` **<u>Y. Li</u>**, S. Leow, T. Dong, L.M.L. Laurens, P.T. Pienkos, J.S. Guest, and T.J. Strathmann. Demonstration and Evaluation of Integrated Microalgae Systems for Biofuel Production (Invited  talk for Gonter Award). *258<sup>th</sup> ACS National Meeting & Exposition*, San Diego, CA, USA, August 25-29, 2019.
 
+<img src='https://yalinli2.github.io/webpage/images/presentations/ACS_2019.png#TOC' alt='ACS Gonter presentation' id='image'>
+
+<br>
+
 `14.` **<u>Y. Li</u>**, D. R. Vardon, and T. J. Strathmann. Advancing Resource Recovery from Wastewater: Part 2 – Hydrothermal Conversion of Polyhydroxybutyrate (PHB)-Containing Biomass (Poster). *AEESP Research and Education Conference*, Arizona State University, Tempe, AZ, USA, May 14-16, 2019.
 
 `13.` **<u>Y. Li</u>**, S. Leow, W. A. Tarpeh, T. Dong, N. J. Nagle, E. P. Knoshaug, L. M. L. Laurens, P. Tienkos, K. L. Nelson, J. S. Guest, and T. J. Strathmann (Poster). Advancing Resource Recovery from Wastewater: Part 1 – Aqueous Conversion Processes for Algal Biomass. *AEESP Research and Education Conference*, Arizona State University, Tempe, AZ, USA, May 14-16, 2019.
+
+<img src='https://yalinli2.github.io/webpage/images/presentations/AEESP_2019.png#TOC' alt='AEESP posters' id='image'>
+
+<br>
 
 ### 2018
 
 `12.` **<u>Y. Li</u>**, S. Leow, T. Dong, L. M. L. Laurens, P. T. Pienkos, J. S. Guest, and T. J. Strathmann. Demonstration and Evaluation of Integrated Microalgae Systems for Biofuel Production (Oral and poster). *256<sup>th</sup> ACS National Meeting & Exposition*, Boston, MA, USA, August 19-23, 2018.
 
 `11.` **<u>Y. Li</u>**, W. Tarpeh, K. L. Nelson, and T. J. Strathmann. Complete Valorization of Wastewater Algae via an Integrated Thermo- and Electrochemical Processing Strategy (Oral). *256<sup>th</sup> ACS National Meeting & Exposition*, Boston, MA, USA, August 19-23, 2018.
+
+<img src='https://yalinli2.github.io/webpage/images/presentations/ACS_2018.png#TOC' alt='ACS presentation' id='image'>
+
+<br>
 
 `10.` **<u>Y. Li</u>**, W. Tarpeh, K. L. Nelson, and T. J. Strathmann. Energy and Nutrient Recovery from Hydrothermal Process Co-products (Oral). *256<sup>th</sup> ACS National Meeting & Exposition*, Boston, MA, USA, August 19-23, 2018.
 
@@ -52,6 +80,10 @@ Selected conference presentations.
 
 `5.` **<u>Y. Li</u>**, S. Leow, A. C. Fedders, J. S. Guest, and T. J. Strathmann. Quantitative Evaluation of Hydrothermal Liquefaction for Algal Biomass Valorization (Poster). *AEESP Research and Education Conference*, Ann Arbor, MI, USA, June 20-22, 2017.
 
+<img src='https://yalinli2.github.io/webpage/images/presentations/AEESP_2017.jpg#center' alt='AEESP poster' width='40%' id='image'>
+
+<br>
+
 `4.` **<u>Y. Li</u>**, S. Leow, J. S. Guest, and T. J. Strathmann. Hydrothermal Liquefaction for Biomass Valorization (Invited  talk). *ENN Group*, Langfang, Hebei, China, February 7, 2017.
 
 ### 2016
@@ -61,3 +93,7 @@ Selected conference presentations.
 `2.` **Y. Li**, S. Leow, A. C. Fedders, B. K. Sharma, J. S. Guest, T. Dong, N. J. Nagle, P. T. Pienkos, and <u>T. J. Strathmann</u>. Quantitative prediction of microalgae hydrothermal liquefaction (Oral). *252<sup>nd</sup> American Chemical Society (ACS) National Meeting & Exposition*, Philadelphia, PA, USA, August 21-25, 2016.
 
 `1.` **<u>Y. Li</u>**, S. Leow, J. S. Guest, and T. J. Strathmann. A Quantitative Multiphase Component Additivity Model for Hydrothermal Liquefaction of Microalgae (Poster). *STREAM (Skills, Technology, Research and Management) Challenge Week*, Torquay, UK, July 10-15, 2016.
+
+<img src='https://yalinli2.github.io/webpage/images/presentations/STREAM.jpg#center' alt='ReNUWIt group' width='60%' id='image'>
+<br>
+<center> <i> The ReNUWIt group at the STREAM challenge week hosted by the University of Exeter. </i> </center>

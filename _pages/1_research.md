@@ -80,7 +80,7 @@ To prioritize the research needs for innovative biofuels and bioproducts, I am i
 
 Moreover, with my background in resource recovery, I am renovating the wastewater treatment process in biorefineries with high-rate technologies (e.g., anaerobic membrane bioreactor, AnMBR) to lower the footprint and enhance the plant energy recovery for more sustainable biorefineries.
 
-<img src='https://yalinli2.github.io/webpage/images/research/lactic_acid.png#center' alt='Lactic acid MPSP' width='50%' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/research/lactic_acid.png#center' alt='Lactic acid MPSP' width='60%' id='image'>
 
 *BioSTEAM-simulated minimum product selling price (MPSP) of lignocellulose-derived lactic acid from (A) neutral and (B) low-pH fermentation across feasible fermentation titer and yield combinations, [Li et al., 2021](https://pubs.acs.org/doi/10.1021/acssuschemeng.0c08055).*
 

@@ -21,7 +21,7 @@ permalink: /more/
 - 2016, Travel Award, USA-UK STREAM Challenge Week Program, Industrial Doctorate Centre for the UK Water Sector and Re-inventing the Nation’s Urban Water Infrastructure (ReNUWIt).
 - 2011-2013, National Undergraduate Innovation Program (China). Project Title: Photocatalytic Removal of Aqueous Endocrine Disruptors by Nano TiO2/Diatomite.
 
-<img src='https://yalinli2.github.io/webpage/images/more/graduation.png#center' alt='Graduation address and Rath award' width='60%' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/more/graduation.png#center' alt='Graduation address and Rath award' width='80%' id='image'>
 <center> <i> Graduation address and receive the Rath award. </i> </center>
 
 ---
@@ -33,8 +33,10 @@ permalink: /more/
 #### Lead Organizer, ACS Division of Environmental Chemistry Symposium (2020).
 Leading the organization of symposium Sustainable Technologies for a Circular Economy: From Benchtop Experimentation through System Analyses at Fall 2020 ACS National Meeting & Exposition.
 
-<img src='https://yalinli2.github.io/webpage/images/more/acs_symposium.png#center' alt='ACS symposium' width='50%' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/more/acs_symposium.png#border' alt='ACS symposium' width='50%' id='image'>
 <center> <i> Schedule of the organized ACS symposium. </i> </center>
+
+<br>
 
 #### Service Fellow, ACS Division of Environmental Chemistry (2018).
 Facilitate the organization of division activities at Fall 2018 ACS National Meeting & Exposition and prepared materials to solicit award sponsors.

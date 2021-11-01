@@ -23,13 +23,21 @@ img[src*='#TOC'] {
     display: block;
     margin: auto;
     align: center;
-    width: 50%;
+    width: 40%;
+    border: 1px solid #000000;
 }
 
 img[src*='#center'] { 
     display: block;
     margin: auto;
     align: center;
+}
+
+img[src*='#border'] { 
+    display: block;
+    margin: auto;
+    align: center;
+    border: 1px solid #000000;
 }
 
 /* Cannot override the setting in `p` tag

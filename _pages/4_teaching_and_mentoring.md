@@ -46,7 +46,7 @@ Key course topics include the thermodynamic and kinetic basis for the compositio
 With my interests, experiences, and skills, I would be excited to develop a new course titled Quantitative Sustainable Design (QSD) of Engineered Systems to (i) introduce the concept and method of sustainability design in the context of engineering system design, and (ii) leverage the QSD methodology and the open-source tools in my research for case studies and group projects to engage students with practical applications.
 
 <br>
-<img src='https://yalinli2.github.io/webpage/images/teaching_and_mentoring/quantitative_sustainable_design.png' alt='Quantitative sustainable design' width='100%' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/teaching_and_mentoring/quantitative_sustainable_design.png#center' alt='Quantitative sustainable design' width='80%' id='image'>
 <center> <i> Leveraging the quantitative sustainable design (QSD) methodology for engineered systems. </i> </center>
 
 ---

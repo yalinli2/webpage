@@ -12,19 +12,19 @@ Selected conference presentations.
 
 `21.` **<u>Y. Li</u>**, <u>X. Zhang</u>, L. S. Rowles, V. L. Morgan, H. A. C. Lohman, S. Mittal, A. Kogler, S. E. Aguiar, W. A. Tarpeh, R. D. Cusick, J. S. Guest. An Integrated Platform for Quantitative Sustainable Design of Sanitation and Resource Recovery Systems under Uncertainty (Poster). *IWA Water Resources Recovery Modelling Conference (Virtual)*. August 21-25, 2021.
 
-<img src='https://yalinli2.github.io/webpage/images/presentations/WRRmod.png#TOC' alt='WRRmod presentation' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/presentations/WRRmod.png#border' alt='WRRmod presentation' width='60%' id='image'>
 
 <br>
 
 `20.` **<u>Y. Li</u>**, G. A. Kontos, N. Avila, D. V. Cabrera, M. Viswanathan, V. Singh, R. A. Labatut, and J. S. Guest. Design of a Small-footprint Wastewater Treatment and Energy Recovery Process for Biorefineries. *International Conference on Resource Sustainability (Virtual)*, July 19-23, 2021.
 
-<img src='https://yalinli2.github.io/webpage/images/presentations/icRS.png#TOC' alt='icRS presentation' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/presentations/icRS.png#border' alt='icRS presentation' width='50%' id='image'>
 
 <br>
 
 `19.` **<u>Y. Li</u>**. Advancing the Sustainability of Engineered Systems through Experimentation and Quantitative Sustainable Design (QSD) (Invited talk). *AEESP AJAR Future Faculty Seminar Series (Virtual)*. March 12, 2021. [YouTube link](https://www.youtube.com/watch?v=IUAvIS0r8NE).
 
-<img src='https://yalinli2.github.io/webpage/images/presentations/AJAR.png#TOC' alt='AJAR presentation' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/presentations/AJAR.png#border' alt='AJAR presentation' width='50%' id='image'>
 
 <br>
 
@@ -44,7 +44,7 @@ Selected conference presentations.
 
 `15.` **<u>Y. Li</u>**, S. Leow, T. Dong, L.M.L. Laurens, P.T. Pienkos, J.S. Guest, and T.J. Strathmann. Demonstration and Evaluation of Integrated Microalgae Systems for Biofuel Production (Invited  talk for Gonter Award). *258<sup>th</sup> ACS National Meeting & Exposition*, San Diego, CA, USA, August 25-29, 2019.
 
-<img src='https://yalinli2.github.io/webpage/images/presentations/ACS_2019.png#TOC' alt='ACS Gonter presentation' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/presentations/ACS_2019.png#border' alt='ACS Gonter presentation' width='40%' id='image'>
 
 <br>
 
@@ -52,7 +52,7 @@ Selected conference presentations.
 
 `13.` **<u>Y. Li</u>**, S. Leow, W. A. Tarpeh, T. Dong, N. J. Nagle, E. P. Knoshaug, L. M. L. Laurens, P. Tienkos, K. L. Nelson, J. S. Guest, and T. J. Strathmann (Poster). Advancing Resource Recovery from Wastewater: Part 1 – Aqueous Conversion Processes for Algal Biomass. *AEESP Research and Education Conference*, Arizona State University, Tempe, AZ, USA, May 14-16, 2019.
 
-<img src='https://yalinli2.github.io/webpage/images/presentations/AEESP_2019.png#TOC' alt='AEESP posters' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/presentations/AEESP_2019.png#border' alt='AEESP posters' width='60%' id='image'>
 
 <br>
 
@@ -62,7 +62,7 @@ Selected conference presentations.
 
 `11.` **<u>Y. Li</u>**, W. Tarpeh, K. L. Nelson, and T. J. Strathmann. Complete Valorization of Wastewater Algae via an Integrated Thermo- and Electrochemical Processing Strategy (Oral). *256<sup>th</sup> ACS National Meeting & Exposition*, Boston, MA, USA, August 19-23, 2018.
 
-<img src='https://yalinli2.github.io/webpage/images/presentations/ACS_2018.png#TOC' alt='ACS presentation' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/presentations/ACS_2018.png#border' alt='ACS presentation' width='40%' id='image'>
 
 <br>
 
@@ -80,7 +80,7 @@ Selected conference presentations.
 
 `5.` **<u>Y. Li</u>**, S. Leow, A. C. Fedders, J. S. Guest, and T. J. Strathmann. Quantitative Evaluation of Hydrothermal Liquefaction for Algal Biomass Valorization (Poster). *AEESP Research and Education Conference*, Ann Arbor, MI, USA, June 20-22, 2017.
 
-<img src='https://yalinli2.github.io/webpage/images/presentations/AEESP_2017.jpg#center' alt='AEESP poster' width='40%' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/presentations/AEESP_2017.png#border' alt='AEESP poster' width='40%' id='image'>
 
 <br>
 

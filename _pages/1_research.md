@@ -104,23 +104,23 @@ This project aims to establish an automated data-processing and information hand
 
 - **Connecting Modeling Platforms to Enable High-resolution Field-to-Gate Analysis of Economic and Environmental Sustainability of Bioenergy and Bioproducts. CABBI Director’s Fund, $140 K (*awarded*).**
 
-	- PI: **Yalin Li**; Jeremy Guest (UIUC, USA)
+	- PI: **Yalin Li**; Jeremy Guest (UIUC)
 	- Role: The lead PI responsible for proposal preparation and project management, including initiating and coordinating research between four groups (UIUC, West Virginia University, University of Idaho, Oak Ridge National Laboratory).
 
 #### Other contributed grant applications
 - **Process Optimization and Real-Time Control for Synergistic Microalgae Cultivation and Wastewater Treatment.
 Department of Energy, $2 MM (*awarded*).**
 
-	- PI: Jeremy Guest (UIUC, USA)
+	- PI: Jeremy Guest (UIUC)
 	- Role: Conducted preliminary TEA, generated figures, and wrote corresponding proposal sections; coordinated with collaborators at Northeastern University and University at Buffalo, SUNY; provided technical inputs and edited proposal.
 
 - **Hydrothermal Destruction and Modeling of Per- and Polyfluoroalkyl Substances (PFAS) of Sewer Sludge. National Natural Science Foundation of China, $90 K (*awarded*).**
 	- PI: Jie Yu (Ningbo University, China); **Y.L. listed as a key participant**
 	- Role: Inspired research idea and established modeling method; provided technical input and edited proposal.
 
-- **Accelerating Development of Biogas-Utilizing Microorganisms for Tunable Hydroxyalkanoates and Flexible Production of Fuels and Chemicals. Department of Energy, $2.5 MM (*not funded*).**
+- **Accelerating Development of Biogas-Utilizing Microorganisms for Tunable Hydroxyalkanoates and Flexible Production of Fuels and Chemicals. Department of Energy, $2.5 MM (*not selected*).**
 	
-	- PI: Timothy Strathmann (CSM, USA)
+	- PI: Timothy Strathmann (CSM)
 	- Role: Envisioned research idea; drafted majority of technical volume and prepared other technical materials; provided preliminary experimental data and facilitated preliminary TEA; coordinated between five research groups (two from CSM, two from NREL, and one industry partner), and drafted response to comments.
 
 - **Hydrothermal Catalytic Conversion of Waste Lipids to Green Diesel and Its Life Cycle Analyses. National Natural Science Foundation of China, $90 K (*awarded*).**
@@ -130,5 +130,5 @@ Department of Energy, $2 MM (*awarded*).**
 
 - **From Wastewater to Gasoline – Aqueous Biorefining of Polyhydroxybutyrate (PHB)-Enriched Biosolids.
 National Science Foundation, $330 K (*awarded*).**
-	- PI: Timothy Strathmann (CSM, USA)
+	- PI: Timothy Strathmann (CSM)
 	- Role: Generated preliminary data, wrote project summary and technical sections.

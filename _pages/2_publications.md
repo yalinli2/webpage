@@ -6,11 +6,21 @@ permalink: /publications/
 
 ## Peer-reviewed papers
 
-This list was updated on October 2021, for the most up-to-date list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en) page.
+This list was updated on November 2021, for the most up-to-date list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en) page.
 
 <br>
 
 ### 2021
+
+`13.` [CuO@NiO Nanoparticles Derived from Metal–Organic Framework Precursors for the Deoxygenation of Fatty Acids.](https://doi.org/10.1021/acssuschemeng.1c05773)
+
+![TOC figure](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/ascecg/0/ascecg.ahead-of-print/acssuschemeng.1c05773/20211111/images/large/sc1c05773_0009.jpeg#TOC)
+
+Deoxygenation of fatty acids to diesel-like hydrocarbons over Metal–Organic Framework (MOF)-derived metal oxides.
+
+D. Zeng, **Y. Li**, H. Ma, F. Cui, and J. Zhang. *ACS Sustainable Chem. Eng.*, **2021**, https://doi.org/10.1021/acssuschemeng.1c05773.
+
+---
 
 `12.` [Vapor-Phase Catalytic Conversion of Aqueous 3-Hydroxybutyric Acid and Crotonic Acid to Propylene](https://doi.org/10.1039/D1CY01152A)
 
@@ -29,7 +39,7 @@ S. Leow, A. J. Koehler, L. E. Cronmiller, X. Huo, G. D. Lahti, **Y. Li**, G. R. 
 
 Solids residence time can be leveraged as a selective pressure to tailor mixed phototrophic communities for wastewater nutrient removal and biofuel production.
 
-Bradley, **Y. Li**, and J. S. Guest. *Environ. Sci. Technol.*, **2021**, *55* (18), 12574–12584.
+I. M. Bradley, **Y. Li**, and J. S. Guest. *Environ. Sci. Technol.*, **2021**, *55* (18), 12574–12584.
 
 ---
 

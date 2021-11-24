@@ -57,7 +57,7 @@ X. Yao, T. J. Strathmann, **Y. Li**, L. E.Cronmiller, H. Ma, and J. Zhang. *Gree
 
 ![TOC figure](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/ascecg/2021/ascecg.2021.9.issue-3/acssuschemeng.0c08055/20210115/images/medium/sc0c08055_0007.gif#TOC)
 
-Sustainable design of lignocellulosic biorefineries for lactic acid production with agile technoeconomic analysis and life cycle assessment under uncertainty.
+Sustainable design of lignocellulosic biorefineries for lactic acid production with agile techno-economic analysis and life cycle assessment under uncertainty.
 
 **Y. Li**, S. Bhagwat, Y. Cortés-Peña, D. Ki, C. V. Rao, Y.-S. Jin, and J. S. Guest. *ACS Sustainable Chem. Eng.*, **2021**, *9* (3), 1341–1351.
 

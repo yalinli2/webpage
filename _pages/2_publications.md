@@ -14,18 +14,17 @@ This list was updated on November 2021, for the most up-to-date list, please ref
 
 `13.` [CuO@NiO Nanoparticles Derived from Metal–Organic Framework Precursors for the Deoxygenation of Fatty Acids.](https://doi.org/10.1021/acssuschemeng.1c05773)
 
-![TOC figure](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/ascecg/0/ascecg.ahead-of-print/acssuschemeng.1c05773/20211111/images/large/sc1c05773_0009.jpeg#TOC)
+![TOC figure](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/ascecg/2021/ascecg.2021.9.issue-46/acssuschemeng.1c05773/20211112/images/medium/sc1c05773_0009.gif#TOC)
 
 Deoxygenation of fatty acids to diesel-like hydrocarbons over Metal–Organic Framework (MOF)-derived metal oxides.
 
-D. Zeng, **Y. Li**, H. Ma, F. Cui, and J. Zhang. *ACS Sustainable Chem. Eng.*, **2021**, https://doi.org/10.1021/acssuschemeng.1c05773.
+D. Zeng, **Y. Li**, H. Ma, F. Cui, and J. Zhang. *ACS Sustainable Chem. Eng.*, **2021**, *9* (46), 15612–15622.
 
 ---
 
 `12.` [Vapor-Phase Catalytic Conversion of Aqueous 3-Hydroxybutyric Acid and Crotonic Acid to Propylene](https://doi.org/10.1039/D1CY01152A)
 
 ![TOC figure](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D1CY01152A&imageInfo.ImageIdentifier.Year=2021#TOC)
-
 
 Vapor-phase dehydration and decarboxylation of polyhydroxybutyrate-derived monomer acids (3-hydroxybutyric acid and crotonic acid) to propylene over solid acid catalysts using a packed-bed continuous-flow reactor for dilute waste carbon valorization.
 

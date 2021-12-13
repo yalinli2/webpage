@@ -12,13 +12,13 @@ This list was updated on November 2021, for the most up-to-date list, please ref
 
 ### 2021
 
-`14.` [Sustainable Production of Acrylic Acid via 3-Hydroxypropionic Acid from Lignocellulosic Biomass](https://pubs.acs.org/doi/abs/10.1021/acssuschemeng.1c05441)
+`14.` [Sustainable Production of Acrylic Acid via 3-Hydroxypropionic Acid from Lignocellulosic Biomass](https://doi.org/10.1021/acssuschemeng.1c05441)
 
-![TOC figure](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/ascecg/0/ascecg.ahead-of-print/acssuschemeng.1c05441/20211129/images/medium/sc1c05441_0006.gif#TOC)
+![TOC figure](https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/ascecg/2021/ascecg.2021.9.issue-49/acssuschemeng.1c05441/20211206/images/medium/sc1c05441_0006.gif#TOC)
 
 Sustainable design of lignocellulosic 3-hydroxypropionic acid biorefineries producing acrylic acid, with agile techno-economic analysis and life cycle assessment under uncertainty.
 
-S. S. Bhagwat, **Y. Li**, Y. R. Cortés-Peña, E. C. Brace, T. A. Martin, H. Zhao, and J. S. Guest. *ACS Sustainable Chem. Eng.*, **2021**, *In Press*.
+S. S. Bhagwat, **Y. Li**, Y. R. Cortés-Peña, E. C. Brace, T. A. Martin, H. Zhao, and J. S. Guest. *ACS Sustainable Chem. Eng.*, **2021**, *9* (49), 16659–16669.
 
 ---
 

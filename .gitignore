@@ -1,5 +1,5 @@
-# General ones#
-###############
+# Develop, build, test #
+########################
 build
 dist
 *.egg-info
@@ -10,20 +10,15 @@ __pycache__
 .pypirc
 MANIFEST
 .coverage
+coverage.xml
 .coveralls.yml
 htmlcov
 _build
 .cache
-prof
+*.prof
 *Pyreverse*
 monkeytype.sqlite3
 *.spyproject*
-
-# Jekyll #
-##########
-_site
-.sass-cache
-.jekyll-metadata
 
 # Docs #
 ########
@@ -75,6 +70,7 @@ surfaces
 
 # Others #
 ##########
+# conftest is used for local testing only
+conftest.py
 *.sh
 **/*temp*
-**/*superseded*

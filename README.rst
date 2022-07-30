@@ -24,7 +24,7 @@ For editors, I use `Sublime Text <https://www.sublimetext.com>`_ and found `Atom
 
 ``jekyll`` versions
 ^^^^^^^^^^^^^^^^^^^
-If you have multiple versions of ``jekyll``, sometimies just ``jekyll new`` or ``jekyll serve`` might not be calling the correct version. In this case, the easiest solution to is to use ``bundle exec`` followed by the ``jekyll`` command (e.g., ``bundle exec jekyll new``.
+If you have multiple versions of ``jekyll``, sometimies just ``jekyll new`` or ``jekyll serve`` might not be calling the correct version. In this case, the easiest solution to is to use ``bundle exec`` followed by the ``jekyll`` command (e.g., ``bundle exec jekyll new``).
 
 
 ``webrick``

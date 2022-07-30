@@ -8,23 +8,35 @@ permalink: /presentations/
 
 Selected conference presentations.
 
+### 2022
+
+`23.` <u>J. S. Guest</u>, <u>D.M. Byrne</u>, S.M. Cook, <u>R.D. Cusick</u>, **<u>Y. Li</u>**, <u>W. A. Tarpeh</u>. Introducing Quantitative Sustainable Design (QSD) as a Structured Approach for Research and Education (Workshop). *AEESP Research and Education Conference*, St. Louis, MO, US, June 28-30, 2022. [Workshop materials](https://uofi.box.com/s/o8vvpxzhydd3g7qw9i4zljzc13kygmd4).
+
+<img src='https://yalinli2.github.io/webpage/images/presentations/AEESP_2022.png#border' alt='AEESP workshop' width='60%' id='image'>
+
+`22.` **<u>Y. Li</u>**, <u>X. Zhang</u>, <u>V. L. Morgan</u>, <u>H. A. C. Lohman</u>. The QSDsan Platform: Open-Source Tools for Quantitative Sustainable Design and Decision-Making of Sanitation and Resource Recovery Technologies (Workshop). *27<sup>th</sup> Environmental Engineering and Science Symposium*, Urbana, IL, US, April 22, 2022. [YouTube link](https://youtu.be/cO3LZpwOit8); [workshop materials](https://github.com/QSD-Group/QSDsan-workshop).
+
+<img src='https://yalinli2.github.io/webpage/images/presentations/EES_2022.png#border' alt='EES workshop' width='60%' id='image'>
+
+<br>
+
 ### 2021
 
-`21.` **<u>Y. Li</u>**, <u>X. Zhang</u>, L. S. Rowles, V. L. Morgan, H. A. C. Lohman, S. Mittal, A. Kogler, S. E. Aguiar, W. A. Tarpeh, R. D. Cusick, J. S. Guest. An Integrated Platform for Quantitative Sustainable Design of Sanitation and Resource Recovery Systems under Uncertainty (Poster). *IWA Water Resources Recovery Modelling Conference (Virtual)*. August 21-25, 2021.
+`21.` **<u>Y. Li</u>**, <u>X. Zhang</u>, L. S. Rowles, V. L. Morgan, H. A. C. Lohman, S. Mittal, A. Kogler, S. E. Aguiar, W. A. Tarpeh, R. D. Cusick, J. S. Guest. An Integrated Platform for Quantitative Sustainable Design of Sanitation and Resource Recovery Systems under Uncertainty (Poster). *IWA Water Resources Recovery Modelling Conference (Virtual)*, August 21-25, 2021.
 
-<img src='https://yalinli2.github.io/webpage/images/presentations/WRRmod.png#border' alt='WRRmod presentation' width='60%' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/presentations/WRRmod_2022.png#border' alt='WRRmod presentation' width='60%' id='image'>
 
 <br>
 
 `20.` **<u>Y. Li</u>**, G. A. Kontos, N. Avila, D. V. Cabrera, M. Viswanathan, V. Singh, R. A. Labatut, and J. S. Guest. Design of a Small-footprint Wastewater Treatment and Energy Recovery Process for Biorefineries. *International Conference on Resource Sustainability (Virtual)*, July 19-23, 2021.
 
-<img src='https://yalinli2.github.io/webpage/images/presentations/icRS.png#border' alt='icRS presentation' width='50%' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/presentations/icRS_2021.png#border' alt='icRS presentation' width='50%' id='image'>
 
 <br>
 
 `19.` **<u>Y. Li</u>**. Advancing the Sustainability of Engineered Systems through Experimentation and Quantitative Sustainable Design (QSD) (Invited talk). *AEESP AJAR Future Faculty Seminar Series (Virtual)*. March 12, 2021. [YouTube link](https://www.youtube.com/watch?v=IUAvIS0r8NE).
 
-<img src='https://yalinli2.github.io/webpage/images/presentations/AJAR.png#border' alt='AJAR presentation' width='50%' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/presentations/AJAR_2021.png#border' alt='AJAR presentation' width='50%' id='image'>
 
 <br>
 

@@ -31,7 +31,7 @@ Research, development, and deployment (RD&D) of innovative technologies are ofte
 
 **Y. Li**, J. T. Trimmer, S. Hand, X. Zhang, K. G. Chambers, H. A. C. Lohman, R. Shi, D. M. Byrne, S. M. Cook, and J. S. Guest. Quantitative Sustainable Design (QSD) for the Prioritization of Research, Development, and Deployment of Technologies: A Tutorial and Review. In Review, 2022.
 
-Available on ChemRxiv at https://doi.org/10.26434/chemrxiv-2022-rjqbn. 
+Available on [ChemRxiv](https://doi.org/10.26434/chemrxiv-2022-rjqbn). 
 
 ---
 

@@ -14,7 +14,7 @@ Selected conference presentations.
 
 <img src='https://yalinli2.github.io/webpage/images/presentations/AEESP_2022.png#border' alt='AEESP workshop' width='60%' id='image'>
 
-`22.` **<u>Y. Li</u>**, <u>X. Zhang</u>, <u>V. L. Morgan</u>, <u>H. A. C. Lohman</u>. The QSDsan Platform: Open-Source Tools for Quantitative Sustainable Design and Decision-Making of Sanitation and Resource Recovery Technologies (Workshop). *27<sup>th</sup> Environmental Engineering and Science Symposium*, Urbana, IL, US, April 22, 2022. [YouTube link](https://youtu.be/cO3LZpwOit8); [workshop materials](https://github.com/QSD-Group/QSDsan-workshop).
+`22.` **<u>Y. Li</u>**, <u>X. Zhang</u>, <u>V. L. Morgan</u>, <u>H. A. C. Lohman</u>. The QSDsan Platform: Open-Source Tools for Quantitative Sustainable Design and Decision-Making of Sanitation and Resource Recovery Technologies (Workshop). *27<sup>th</sup> Environmental Engineering and Science Symposium*, Urbana, IL, US, April 22, 2022. [YouTube link](https://youtu.be/C4Wk2bhsvnk); [workshop materials](https://github.com/QSD-Group/QSDsan-workshop).
 
 <img src='https://yalinli2.github.io/webpage/images/presentations/EES_2022.png#border' alt='EES workshop' width='60%' id='image'>
 

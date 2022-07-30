@@ -85,7 +85,7 @@ As my research spans both experimental and modelling, I'm often asked which one 
 
 And it's a [childhood dream](https://repository.mines.edu/bitstream/handle/11124/173017/Li_mines_0052E_11570.pdf) comes true.
 
-<img src='https://yalinli2.github.io/webpage/images/more/dissertation.png#center' alt='Dissertation dedication' width='60%' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/more/dissertation.png#border' alt='Dissertation dedication' width='60%' id='image'>
 
 <center> <i> Dedication page in my Ph.D. dissertation. </i> </center>
 

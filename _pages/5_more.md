@@ -75,7 +75,7 @@ I represented ReNUWIt in the Orange County Children’s Water Education Festival
 
 ### Experiments
 
-As my research spans both experimental and modelling, I'm often asked which one I prefer. Maybe a little surprising to others expecting a democratic answer, I always choose experimental work. I like see things happening in reality, and it keeps me grounded.
+As my research spans both experimental and modelling, I'm often asked which one I prefer. Maybe a little surprising to others expecting a diplomatic answer, I always choose experimental work. I like see things happening in reality, and it keeps me grounded.
 
 <img src='https://yalinli2.github.io/webpage/images/more/experiments.png#center' alt='Sampling trip' width='80%' id='image'>
 

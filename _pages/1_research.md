@@ -44,7 +44,7 @@ With these tools, I am leading the design of spatiotemporally resolved sustainab
 
 #### QSDsan – Quantitative Sustainable Design for Sanitation and Resource Recovery Systems.
 
-<img src='https://qsdsan.readthedocs.io/en/latest/_images/logo_light_full.png#center' alt='QSDsan logo' width='40%' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/research/qsdsan.png#center' alt='QSDsan logo' width='40%' id='image'>
 
 <br>
 
@@ -56,7 +56,7 @@ QSDsan is also being leveraged in the development of other open-source tools for
 
 #### BioSTEAM – Biorefinery Simulation and Techno-economic Analysis Modules.
 
-<img src='https://biosteam.readthedocs.io/en/latest/_images/BioSTEAM_logo.png#center' alt='BioSTEAM logo' width='30%' id='image'>
+<img src='https://yalinli2.github.io/webpage/images/research/biosteam.png#center' alt='BioSTEAM logo' width='30%' id='image'>
 
 I am also a ***core developer*** of the BioSTEAM ([source code](https://github.com/BioSTEAMDevelopmentGroup/biosteam), [documentation](https://biosteam.readthedocs.io)), which is an open-source tool in Python for system design, simulation, and TEA for biorefineries under uncertainty. It has been used in multiple studies to assess the sustainability of novel feedstocks and emerging bioproducts.
 

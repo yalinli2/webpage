@@ -13,17 +13,7 @@ This list was updated on July 2022, for the most up-to-date list, please refer t
 
 ### 2022
 
-`17.` [Financial Viability and Environmental Sustainability of Fecal Sludge Treatment with Omni Processors](https://pubs.acs.org/doi/10.1021/acsenvironau.2c00022)
-
-![TOC figure](https://pubs.acs.org/cms/10.1021/acsenvironau.2c00022/asset/images/medium/vg2c00022_0006.gif#TOC)
-
- In this study, QSDsan was used to characterize the financial viability and environmental implications of fecal sludge treatment via pyrolysis-based omni processor technology (biogenic refinery) treating mixed and source-separated human excreta and to elucidate the key drivers of system sustainability.
-
-L.S. Rowles, V.L. Morgan, **Y. Li**, X. Zhang, S. Watabe, T. Stephen, H.A.C. Lohman, D. DeSouza, J. Hallowell, R.D. Cusick, J.S. Guest. ACS Environmental Au. Accepted, 2022. DOI: 10.1021/acsenvironau.2c00022.
-
----
-
-`16.` Quantitative Sustainable Design (QSD) for the Prioritization of Research, Development, and Deployment of Technologies: A Tutorial and Review
+`17.` Quantitative Sustainable Design (QSD) for the Prioritization of Research, Development, and Deployment of Technologies: A Tutorial and Review
 
 <img src='https://yalinli2.github.io/webpage/images/publications/QSD_TOC.png#TOC' alt='QSD Review TOC' width='60%' id='image'>
 
@@ -35,15 +25,23 @@ Available on [ChemRxiv](https://doi.org/10.26434/chemrxiv-2022-rjqbn).
 
 ---
 
-`15.` QSDsan: An Integrated Platform for Quantitative Sustainable Design of Sanitation and Resource Recovery Systems
+`16.` [Financial Viability and Environmental Sustainability of Fecal Sludge Treatment with Omni Processors](https://pubs.acs.org/doi/10.1021/acsenvironau.2c00022)
 
-<img src='https://yalinli2.github.io/webpage/images/publications/QSDsan_TOC.png#TOC' alt='QSDsan TOC' width='60%' id='image'>
+![TOC figure](https://pubs.acs.org/cms/10.1021/acsenvironau.2c00022/asset/images/medium/vg2c00022_0006.gif#TOC)
+
+ In this study, QSDsan was used to characterize the financial viability and environmental implications of fecal sludge treatment via pyrolysis-based omni processor technology (biogenic refinery) treating mixed and source-separated human excreta and to elucidate the key drivers of system sustainability.
+
+L.S. Rowles, V.L. Morgan, **Y. Li**, X. Zhang, S. Watabe, T. Stephen, H.A.C. Lohman, D. DeSouza, J. Hallowell, R.D. Cusick, J.S. Guest. ACS Environmental Au. Accepted, 2022. DOI: 10.1021/acsenvironau.2c00022.
+
+---
+
+`15.` [QSDsan: An Integrated Platform for Quantitative Sustainable Design of Sanitation and Resource Recovery Systems](https://www.doi.org/10.1039/d2ew00455k)
+
+<img src='https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D2EW00455K&imageInfo.ImageIdentifier.Year=2022#TOC' alt='QSDsan TOC' width='60%' id='image'>
 
 Robust and agile tools are needed to support the research, development, and deployment (RD&D) of sanitation and resource recovery technologies. This work introduces QSDsan – an open-source Python tool that integrates system design, simulation, and sustainability characterization (techno-economic analysis and life cycle assessment) to quickly identify critical barriers, prioritize research opportunities, and navigate multi-dimensional sustainability tradeoffs for technology RD&D. 
 
-**Y. Li**, X. Zhang, V. L. Morgan, H. A. C. Lohman, L. S. Rowles, S. Mittal, A. Kogler, W. A. Tarpeh, and J. S. Guest. Accepted by Environ. Sci.: Water Res. Technol., 2022. DOI: 10.1039/d2ew00455k.
-
-Available on [arXiv](http://arxiv.org/abs/2203.06243).
+**Y. Li**, X. Zhang, V. L. Morgan, H. A. C. Lohman, L. S. Rowles, S. Mittal, A. Kogler, W. A. Tarpeh, and J. S. Guest. Accepted by Environ. Sci.: Water Res. Technol. Accepted, 2022. DOI: 10.1039/d2ew00455k.
 
 ---
 

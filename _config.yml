@@ -18,7 +18,7 @@ email: mail.yalin.li@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Yalin's personal webpage
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'yalinli.me' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://yalinli.me' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: atyalinli
 github_username:  yalinli2
 

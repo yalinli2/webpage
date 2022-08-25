@@ -23,9 +23,9 @@ layout: index
 
 Welcome to my website!
 
-I am currently a Research Scientist at the [University of Illinois Urbana-Champaign (UIUC)](http://illinois.edu). I am affiliated with the [Institute of Sustainability, Energy, and Environment (iSEE)](https://sustainability.illinois.edu) and the [Center for Advanced Bioenergy and Bioproducts Innovation (CABBI)](https://cabbi.bio) at UIUC. I got my Bachelor's degree from [Tongji University](https://www.tongji.edu.cn), my Master's from UIUC, and my Doctorate from [Colorado School of Mines](https://www.mines.edu) (with [Prof. Strathmann](https://strathmanngroup.com)).
+I am currently a Research Scientist at the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu). I am affiliated with the [Institute of Sustainability, Energy, and Environment (iSEE)](https://sustainability.illinois.edu) and the [Center for Advanced Bioenergy and Bioproducts Innovation (CABBI)](https://cabbi.bio) at UIUC. I got my Bachelor's degree from [Tongji University](https://www.tongji.edu.cn), my Master's from UIUC, and my Doctorate from [Colorado School of Mines](https://www.mines.edu).
 
-You can read more about my [research](https://yalinli2.github.io/webpage/research), check out my [publications](https://yalinli2.github.io/webpage/publications) and conference [presentations](https://yalinli2.github.io/webpage/presentations), my experiences in [teaching and mentoring](https://yalinli2.github.io/webpage/teaching_and_mentoring) (and the education modules I'm developing for quantitative sustainable design (QSD) using the open-source tool developed in my research), as well as some [other activities](https://yalinli2.github.io/webpage/more).
+You can read more about my [research](/research/), check out my [publications](/publications/) and conference [presentations](/presentations/), my experiences in [teaching and mentoring](/teaching_and_mentoring/) (and the education modules I'm developing for quantitative sustainable design (QSD) using the open-source tool developed in my research), as well as some [other activities](/more/).
 
 
 My contacts and links to various profiles can be found at the bottom of each page, feel free to reach out and get to know me more!

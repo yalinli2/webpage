@@ -5,16 +5,16 @@ Welcome to Yalin's webpage
 Status
 ------
 .. image:: https://img.shields.io/badge/status-moving--to--new--domain-orange
-   :target: http://yalinli.me
+   :target: https://yalinli.me
 
 ..
 	.. image:: https://img.shields.io/badge/status-live-brightgreen?style=flat
-	   :target: http://yalinli2.github.io/webpage
+	   :target: https://yalinli2.github.io/webpage
 
 
 What's here?
 ------------
-This repository contains the source codes used to generate my `personal website <http://yalinli2.github.io/webpage>`_. You are welcome to fork this repository and use for your personal sites. Feel free to post GitHub issues for questions or just chat.
+This repository contains the source codes used to generate my `personal website <https://yalinli.me>`_. You are welcome to fork this repository and use for your personal sites. Feel free to post GitHub issues for questions or just chat.
 
 Acknowledgement to me is appreciated but not required. If you really want to say thank you, take a bus trip instead of driving, and say thank you to the bus driver.
 

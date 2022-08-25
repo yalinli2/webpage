@@ -29,7 +29,7 @@ plugins:
   - jekyll-feed
 sass:
   sass_dir: _sass
-include: ['_includes', '_layouts', _pages', '_sass', 'css', 'fonts', 'images']
+include: ['_includes', '_layouts', _pages', 'css', 'fonts', 'images']
 kramdown:
   input: GFM
 

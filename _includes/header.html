@@ -24,7 +24,7 @@ Yalin Li
 		<nav>
 			<ul>
 				<!-- the index/home page -->
-				<li><a href="{{ "/index" | prepend: site.baseurl }}">Home</a></li>
+				<li><a href="{{ '/index' | prepend: site.baseurl }}">Home</a></li>
 				<!-- other content pages -->
 				{% for page in site.pages %} {% if page.title %}
 				<li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>

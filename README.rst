@@ -4,8 +4,12 @@ Welcome to Yalin's webpage
 
 Status
 ------
-.. image:: https://img.shields.io/badge/status-live-brightgreen?style=flat
-   :target: http://yalinli2.github.io/webpage
+.. image:: https://img.shields.io/badge/status-moving--to--new--domain-orange
+   :target: http://yalinli.me
+
+..
+	.. image:: https://img.shields.io/badge/status-live-brightgreen?style=flat
+	   :target: http://yalinli2.github.io/webpage
 
 
 What's here?

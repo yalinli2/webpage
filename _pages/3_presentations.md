@@ -6,7 +6,7 @@ permalink: /presentations/
 
 ## Presentations
 
-Selected conference presentations.
+Select conference presentations.
 
 ### 2022
 

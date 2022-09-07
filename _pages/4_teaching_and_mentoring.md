@@ -8,7 +8,7 @@ permalink: /teaching_and_mentoring/
 
 ### Course Instructed
 
-#### Environmnetal Engineering Principles, Chemical (UIUC)
+#### Environmental Engineering Principles, Chemical (UIUC)
 
 The goal of this course is to introduce students to the fundamental principles that govern chemical and biochemical processes in natural and engineered environmental systems, and to employ quantitative approaches to solving aquatic chemistry problems. 
 

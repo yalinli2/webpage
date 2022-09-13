@@ -79,4 +79,4 @@ surfaces
 # conftest is used for local testing only
 conftest.py
 *.sh
-**/*temp*
+**/*tmp*

@@ -12,7 +12,7 @@ My research seeks to advance the sustainability of engineered systems through ex
 
 <br>
 
-<img src='https://yalinli2.github.io/webpage/images/research/overarching.png' alt='Overarching figure' width='100%' id='image'>
+<img src='../images/research/overarching.png' alt='Overarching figure' width='100%' id='image'>
 <br>
 <center> <i> Overarching scheme of my research. </i> </center>
 
@@ -44,19 +44,19 @@ With these tools, I am leading the design of spatiotemporally resolved sustainab
 
 #### QSDsan – Quantitative Sustainable Design for Sanitation and Resource Recovery Systems.
 
-<img src='https://yalinli2.github.io/webpage/images/research/qsdsan.png#center' alt='QSDsan logo' width='40%' id='image'>
+<img src='../images/research/qsdsan.png#center' alt='QSDsan logo' width='40%' id='image'>
 
 <br>
 
 I am the ***creator & lead developer*** for the QSDsan platform, which is built around the core package [QSDsan](https://qsdsan.com). QSDsan is an open-source tool in Python that integrates system design, simulation, TEA, and LCA under uncertainty. Sanitation systems developed using QSDsan are deposited in the [EXPOsan](https://github.com/QSD-Group/EXPOsan) (exposition) repository, and another package, [DMsan](https://github.com/qsD-Group/DMsan) (decision-making), is leveraged to navigate decision-making among multiple dimensions of sustainability using sustainability indicators simulated in QSDsan with location-specific contextual parameters. Efforts are also underway to develop interactive education modules using the QSDsan platform.
 
-QSDsan is also being leveraged in the development of other open-source tools for water and wastewater treatment, including [WaterTAP](https://watertap.readthedocs.io/en/latest/) (Water Techno-economic Assessment Platform) funded by the National Alliance for Water Innovation (NAWI), the Department of Energy’s Energy-Water Desalination Hub, to advance early-stage water treatment technologies and enable the treatment of non-traditional water sources.
+QSDsan is also being leveraged in the development of other open-source tools for water and wastewater treatment, including [WaterTAP](https://watertap.readthedocs.io) (Water Techno-economic Assessment Platform) funded by the National Alliance for Water Innovation (NAWI), the Department of Energy’s Energy-Water Desalination Hub, to advance early-stage water treatment technologies and enable the treatment of non-traditional water sources.
 
 <br>
 
 #### BioSTEAM – Biorefinery Simulation and Techno-economic Analysis Modules.
 
-<img src='https://yalinli2.github.io/webpage/images/research/biosteam.png#center' alt='BioSTEAM logo' width='30%' id='image'>
+<img src='../images/research/biosteam.png#center' alt='BioSTEAM logo' width='30%' id='image'>
 
 I am also a ***core developer*** of the BioSTEAM ([source code](https://github.com/BioSTEAMDevelopmentGroup/biosteam), [documentation](https://biosteam.readthedocs.io)), which is an open-source tool in Python for system design, simulation, and TEA for biorefineries under uncertainty. It has been used in multiple studies to assess the sustainability of novel feedstocks and emerging bioproducts.
 
@@ -82,7 +82,7 @@ To prioritize the research needs for innovative biofuels and bioproducts, I am i
 
 Moreover, with my background in resource recovery, I am renovating the wastewater treatment process in biorefineries with high-rate technologies (e.g., anaerobic membrane bioreactor, AnMBR) to lower the footprint and enhance the plant energy recovery for more sustainable biorefineries.
 
-<img src='https://yalinli2.github.io/webpage/images/research/lactic_acid.png#center' alt='Lactic acid MPSP' width='60%' id='image'>
+<img src='../images/research/lactic_acid.png#center' alt='Lactic acid MPSP' width='60%' id='image'>
 
 *BioSTEAM-simulated minimum product selling price (MPSP) of lignocellulose-derived lactic acid from (A) neutral and (B) low-pH fermentation across feasible fermentation titer and yield combinations, [Li et al., 2021](https://pubs.acs.org/doi/10.1021/acssuschemeng.0c08055).*
 
@@ -92,7 +92,7 @@ Moreover, with my background in resource recovery, I am renovating the wastewate
 
 This project aims to establish an automated data-processing and information hand-off framework to connect the different modeling platforms (e.g., the ecosystem model [DayCent](https://www2.nrel.colostate.edu/projects/daycent/)) across the biobased value chain, thus enabling high-resolution (i.e., contextually resolved and sensitive to technological advancements) economic and environmental sustainability analysis of bioenergy and bioproducts through TEA and LCA.
 
-<img src='https://yalinli2.github.io/webpage/images/research/value_chain.png#center' alt='Connections and data flows across the modeling platforms' width='80%' id='image'>
+<img src='../images/research/value_chain.png#center' alt='Connections and data flows across the modeling platforms' width='80%' id='image'>
 
 *Connecting modeling platforms across the biobased value chain for high-resolution TEA and LCA.*
 

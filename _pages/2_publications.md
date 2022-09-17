@@ -14,7 +14,7 @@ This list was updated on September 2022, for the most up-to-date list, please re
 
 `19.` [Quantitative Sustainable Design (QSD) for the Prioritization of Research, Development, and Deployment of Technologies: A Tutorial and Review](https://doi.org/10.26434/chemrxiv-2022-rjqbn)
 
-![TOC figure](https://yalinli2.github.io/webpage/images/publications/QSD_TOC.png#TOC)
+![TOC figure](../images/publications/QSD_TOC.png#TOC)
 
 Research, development, and deployment (RD&D) of innovative technologies are often impeded by the lack of transparent, systematic, and agile approaches to prioritize investment across the expansive landscape of technologies and design/operational decisions. This tutorial review synthesizes research on sustainability analyses to present Quantitative Sustainable Design (QSD) – a structured methodology to expedite the RD&D of water, sanitation, and resource recovery technologies.
 

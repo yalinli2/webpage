@@ -110,7 +110,7 @@ I. M. Bradley, **Y. Li**, and J. S. Guest. *Environ. Sci. Technol.* **2021**, *5
 
 This reviews summarizes the reactions, catalysts, and influencing factors in the hydrothermal deoxygenation of lipids and fatty acids to diesel-like hydrocarbons.
 
-X. Yao, T. J. Strathmann, **Y. Li**, L. E.Cronmiller, H. Ma, and J. Zhang. *Green Chem.* **2021**, *23* (3), 1114–1129.
+X. Yao, T. J. Strathmann, **Y. Li**, L. E. Cronmiller, H. Ma, and J. Zhang. *Green Chem.* **2021**, *23* (3), 1114–1129.
 
 ---
 
@@ -132,7 +132,8 @@ Sustainable design of lignocellulosic biorefineries for lactic acid production w
 
 ![TOC figure](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C9EW01139K&imageInfo.ImageIdentifier.Year=2020#TOC)
 
-PFAS sorbed to sludge degrade to varying degrees when sludge is subjected to hydrothermal liquefaction for production of liquid fuel.
+
+This study shows that PFAS sorbed to sludge degrade to varying degrees when sludge is subjected to hydrothermal liquefaction for production of liquid fuel.
 
 J. Yu, A. Nickerson, **Y. Li**, Y. Fang, and T. J. Strathmann. *Environ. Sci.: Water Res. Technol.* **2020**, *6* (5), 1388–1399.
 

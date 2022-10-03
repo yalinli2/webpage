@@ -18,7 +18,7 @@ This list was updated on September 2022, for the most up-to-date list, please re
 
 Research, development, and deployment (RD&D) of innovative technologies are often impeded by the lack of transparent, systematic, and agile approaches to prioritize investment across the expansive landscape of technologies and design/operational decisions. This tutorial review synthesizes research on sustainability analyses to present Quantitative Sustainable Design (QSD) – a structured methodology to expedite the RD&D of water, sanitation, and resource recovery technologies.
 
-**Y. Li**, J. T. Trimmer, S. Hand, X. Zhang, K. G. Chambers, H. A. C. Lohman, R. Shi, D. M. Byrne, S. M. Cook, and J. S. Guest. *Environ. Sci.: Water Res. Technol.*, Accepted, 2022. DOI: 10.1039/d2ew00431c.
+**Y. Li**, J. T. Trimmer, S. Hand, X. Zhang, K. G. Chambers, H. A. C. Lohman, R. Shi, D. M. Byrne, S. M. Cook, and J. S. Guest. *Environ. Sci.: Water Res. Technol.* Accepted, **2022**. DOI: 10.1039/d2ew00431c.
 
 ---
 
@@ -28,7 +28,7 @@ Research, development, and deployment (RD&D) of innovative technologies are ofte
 
 In this study, the metal–organic framework (MOF) was applied as a precursor template to synthesize Co<sub>3</sub>O<sub>4</sub> nanoparticles with a carbon matrix shell (M-Co3O4). The effects of catalyst dosage, methanol dosage, water dosage, temperature, and reaction time on catalytic efficiency were examined with stearic acid as the model reactant. Under the designed condition, M-Co3O4 exhibited high catalytic performance and the catalyst showed higher conversion of stearic acid (98.7%) and selectivity toward C8–C18 alkanes (92.2%) in comparison with Pt/C (95.8% conversion and 93.2% selectivity toward C8–C18). The catalysts were also characterized by a series of characterization techniques including electron microscopy (SEM), high-resolution transmission electron microscopy (HRTEM), X-ray powder diffraction (XRD), X-ray photoelectron spectroscopy (XPS), nitrogen adsorption isotherms (Brunauer–Emmett–Teller (BET) method), and thermogravimetric analysis (TGA). Finally, we proposed that decarbonization (deCO) could be the presumably mechanistic pathway for the production of C8–C18 alkanes from the decomposition of stearic acid.
 
-J. Zhang, **Y. Li**, D. Zeng, T. Xia. *ACS Omega*, 2022, **7**, 33482–33490.
+J. Zhang, **Y. Li**, D. Zeng, T. Xia. *ACS Omega* **2022**, *7* (37), 33482–33490.
 
 ---
 
@@ -38,7 +38,7 @@ J. Zhang, **Y. Li**, D. Zeng, T. Xia. *ACS Omega*, 2022, **7**, 33482–33490.
 
 An engineered *Saccharomyces cerevisiae* capable of producing 2,3-butanediol (2,3-BDO) from glucose without accumulating ethanol and glycerol was constructed in this work. Techno-economic analysis (TEA) and life cycle assessment (LCA) of the production of methyl ethyl ketone (MEK) through catalytic dehydration of 2,3-BDO was performed and demonstrated the feasibility of cost-competitive and sustainable bio-based MEK production via yeast fermentation. Further, the fermentation broth containing 2,3-BDO was also tested in *Arabidopsis thaliana* for its potential to be used as a biostimulant, proving the broth could induce drought tolerance without a complicated purification process.
 
-J. W. Lee, S. S. Bhagwat, N. Kuanyshev, Y. B. Cho, L. Sun, Y.-G. Lee, Y. R. Cortés-Peña, **Y. Li**, C. V. Rao, J. S. Guest, Y.-S. Jin. *Chem. Eng. J.*, 2023, **451**, 138886.
+J. W. Lee, S. S. Bhagwat, N. Kuanyshev, Y. B. Cho, L. Sun, Y.-G. Lee, Y. R. Cortés-Peña, **Y. Li**, C. V. Rao, J. S. Guest, Y.-S. Jin. *Chem. Eng. J.* **2023**, *451*, 138886.
 
 ---
 
@@ -48,7 +48,7 @@ J. W. Lee, S. S. Bhagwat, N. Kuanyshev, Y. B. Cho, L. Sun, Y.-G. Lee, Y. R. Cort
 
  In this study, QSDsan was used to characterize the financial viability and environmental implications of fecal sludge treatment via pyrolysis-based omni processor technology (biogenic refinery) treating mixed and source-separated human excreta and to elucidate the key drivers of system sustainability.
 
-L.S. Rowles, V.L. Morgan, **Y. Li**, X. Zhang, S. Watabe, T. Stephen, H.A.C. Lohman, D. DeSouza, J. Hallowell, R.D. Cusick, J.S. Guest. *ACS Environmental Au*, 2022, **2**, 455–466.
+L.S. Rowles, V.L. Morgan, **Y. Li**, X. Zhang, S. Watabe, T. Stephen, H.A.C. Lohman, D. DeSouza, J. Hallowell, R.D. Cusick, J.S. Guest. *ACS Environmental Au* **2022**, *2* (5), 455–466.
 
 ---
 
@@ -58,7 +58,7 @@ L.S. Rowles, V.L. Morgan, **Y. Li**, X. Zhang, S. Watabe, T. Stephen, H.A.C. Loh
 
 Robust and agile tools are needed to support the research, development, and deployment (RD&D) of sanitation and resource recovery technologies. This work introduces QSDsan – an open-source Python tool that integrates system design, simulation, and sustainability characterization (techno-economic analysis and life cycle assessment) to quickly identify critical barriers, prioritize research opportunities, and navigate multi-dimensional sustainability tradeoffs for technology RD&D. 
 
-**Y. Li**, X. Zhang, V. L. Morgan, H. A. C. Lohman, L. S. Rowles, S. Mittal, A. Kogler, W. A. Tarpeh, and J. S. Guest. *Environ. Sci.: Water Res. Technol.*, 2022, **8**, 2289–2303.
+**Y. Li**, X. Zhang, V. L. Morgan, H. A. C. Lohman, L. S. Rowles, S. Mittal, A. Kogler, W. A. Tarpeh, and J. S. Guest. *Environ. Sci.: Water Res. Technol.* **2022**, *8* (10), 2289–2303.
 
 ---
 
@@ -70,7 +70,7 @@ Robust and agile tools are needed to support the research, development, and depl
 
 Sustainable design of lignocellulosic 3-hydroxypropionic acid biorefineries producing acrylic acid, with agile techno-economic analysis and life cycle assessment under uncertainty.
 
-S. S. Bhagwat, **Y. Li**, Y. R. Cortés-Peña, E. C. Brace, T. A. Martin, H. Zhao, and J. S. Guest. *ACS Sustainable Chem. Eng.*, **2021**, *9* (49), 16659–16669.
+S. S. Bhagwat, **Y. Li**, Y. R. Cortés-Peña, E. C. Brace, T. A. Martin, H. Zhao, and J. S. Guest. *ACS Sustainable Chem. Eng.* **2021**, *9* (49), 16659–16669.
 
 ---
 
@@ -80,7 +80,7 @@ S. S. Bhagwat, **Y. Li**, Y. R. Cortés-Peña, E. C. Brace, T. A. Martin, H. Zha
 
 Deoxygenation of fatty acids to diesel-like hydrocarbons over Metal–Organic Framework (MOF)-derived metal oxides.
 
-D. Zeng, **Y. Li**, H. Ma, F. Cui, and J. Zhang. *ACS Sustainable Chem. Eng.*, **2021**, *9* (46), 15612–15622.
+D. Zeng, **Y. Li**, H. Ma, F. Cui, and J. Zhang. *ACS Sustainable Chem. Eng.* **2021**, *9* (46), 15612–15622.
 
 ---
 
@@ -90,7 +90,7 @@ D. Zeng, **Y. Li**, H. Ma, F. Cui, and J. Zhang. *ACS Sustainable Chem. Eng.*, *
 
 Vapor-phase dehydration and decarboxylation of polyhydroxybutyrate-derived monomer acids (3-hydroxybutyric acid and crotonic acid) to propylene over solid acid catalysts using a packed-bed continuous-flow reactor for dilute waste carbon valorization.
 
-S. Leow, A. J. Koehler, L. E. Cronmiller, X. Huo, G. D. Lahti, **Y. Li**, G. R. Hafenstine, D. R. Vardon, and T. J. Strathmann. *Catal. Sci. Technol.*, **2021**, *11* (20), 6866–6876.
+S. Leow, A. J. Koehler, L. E. Cronmiller, X. Huo, G. D. Lahti, **Y. Li**, G. R. Hafenstine, D. R. Vardon, and T. J. Strathmann. *Catal. Sci. Technol.* **2021**, *11* (20), 6866–6876.
 
 ---
 
@@ -100,7 +100,7 @@ S. Leow, A. J. Koehler, L. E. Cronmiller, X. Huo, G. D. Lahti, **Y. Li**, G. R. 
 
 Solids residence time can be leveraged as a selective pressure to tailor mixed phototrophic communities for wastewater nutrient removal and biofuel production.
 
-I. M. Bradley, **Y. Li**, and J. S. Guest. *Environ. Sci. Technol.*, **2021**, *55* (18), 12574–12584.
+I. M. Bradley, **Y. Li**, and J. S. Guest. *Environ. Sci. Technol.* **2021**, *55* (18), 12574–12584.
 
 ---
 
@@ -110,7 +110,7 @@ I. M. Bradley, **Y. Li**, and J. S. Guest. *Environ. Sci. Technol.*, **2021**, *
 
 This reviews summarizes the reactions, catalysts, and influencing factors in the hydrothermal deoxygenation of lipids and fatty acids to diesel-like hydrocarbons.
 
-X. Yao, T. J. Strathmann, **Y. Li**, L. E.Cronmiller, H. Ma, and J. Zhang. *Green Chem.*, **2021**, *23* (3), 1114–1129.
+X. Yao, T. J. Strathmann, **Y. Li**, L. E.Cronmiller, H. Ma, and J. Zhang. *Green Chem.* **2021**, *23* (3), 1114–1129.
 
 ---
 
@@ -120,7 +120,7 @@ X. Yao, T. J. Strathmann, **Y. Li**, L. E.Cronmiller, H. Ma, and J. Zhang. *Gree
 
 Sustainable design of lignocellulosic biorefineries for lactic acid production with agile techno-economic analysis and life cycle assessment under uncertainty.
 
-**Y. Li**, S. Bhagwat, Y. Cortés-Peña, D. Ki, C. V. Rao, Y.-S. Jin, and J. S. Guest. *ACS Sustainable Chem. Eng.*, **2021**, *9* (3), 1341–1351.
+**Y. Li**, S. Bhagwat, Y. Cortés-Peña, D. Ki, C. V. Rao, Y.-S. Jin, and J. S. Guest. *ACS Sustainable Chem. Eng.* **2021**, *9* (3), 1341–1351.
 
 ---
 
@@ -134,7 +134,7 @@ Sustainable design of lignocellulosic biorefineries for lactic acid production w
 
 PFAS sorbed to sludge degrade to varying degrees when sludge is subjected to hydrothermal liquefaction for production of liquid fuel.
 
-J. Yu, A. Nickerson, **Y. Li**, Y. Fang, and T. J. Strathmann. *Environ. Sci.: Water Res. Technol.*, **2020**, *6* (5), 1388–1399.
+J. Yu, A. Nickerson, **Y. Li**, Y. Fang, and T. J. Strathmann. *Environ. Sci.: Water Res. Technol.* **2020**, *6* (5), 1388–1399.
 
 ---
 
@@ -148,7 +148,7 @@ J. Yu, A. Nickerson, **Y. Li**, Y. Fang, and T. J. Strathmann. *Environ. Sci.: W
 
 Investigation of reaction mechanism and development of a kinetic network model for hydrothermal conversion of polyhydroxybutyrate (PHB) for wastewater valorization.
 
-**Y. Li** and T. J. Strathmann. *Green Chem.*, **2019**, *21* (20), 5586–5597.
+**Y. Li** and T. J. Strathmann. *Green Chem.* **2019**, *21* (20), 5586–5597.
 
 ---
 
@@ -158,7 +158,7 @@ Investigation of reaction mechanism and development of a kinetic network model f
 
 Low-cost Ru catalysts can be applied to produce a mixture of alkanes, matching properties of existing petroleum diesel or jet fuel.
 
-J. Zhang, X. Huo, **Y. Li**, and T. J. Strathmann. *ACS Sustainable Chem. Eng.*, **2019**, *7* (17), 14400–14410.
+J. Zhang, X. Huo, **Y. Li**, and T. J. Strathmann. *ACS Sustainable Chem. Eng.* **2019**, *7* (17), 14400–14410.
 
 ---
 
@@ -168,7 +168,7 @@ J. Zhang, X. Huo, **Y. Li**, and T. J. Strathmann. *ACS Sustainable Chem. Eng.*,
 
 Evaluation of the treatment efficacy and economic performance of an algal wastewater treatment and valorization system across different seasons.
 
-**Y. Li**, S. A. Slouka, S. M. Henkanatte-Gedera, N. Nirmalakhandan, and T. J. Strathmann. *Environ. Sci.: Water Res. Technol.*, **2019**, *5* (9), 1545–1557.
+**Y. Li**, S. A. Slouka, S. M. Henkanatte-Gedera, N. Nirmalakhandan, and T. J. Strathmann. *Environ. Sci.: Water Res. Technol.* **2019**, *5* (9), 1545–1557.
 
 ---
 
@@ -178,7 +178,7 @@ Evaluation of the treatment efficacy and economic performance of an algal wastew
 
 Experiments and model predictions show increased algal biofuel yields at lower prices via proposed hybrid conversion systems.
 
-**Y. Li**, S. Leow, T. Dong, N. J. Nagle, E. P. Knoshaug, L. M. L., Laurens, P. T. Pienkos, J. S. Guest, and T. J. Strathmann. *ACS Sustainable Chem. Eng.*, **2019**, *7* (6), 5835-5844.
+**Y. Li**, S. Leow, T. Dong, N. J. Nagle, E. P. Knoshaug, L. M. L., Laurens, P. T. Pienkos, J. S. Guest, and T. J. Strathmann. *ACS Sustainable Chem. Eng.* **2019**, *7* (6), 5835-5844.
 
 ---
 
@@ -192,7 +192,7 @@ Experiments and model predictions show increased algal biofuel yields at lower p
 
 Integrating biological cultivation model with thermochemical/biological unit process models to increase modeling fidelity, provide mechanistic links among unit operations, and quantify minimum selling prices of algal biofuels via techno-economic analysis.
 
-S. Leow, B. D. Shoener, **Y. Li**, J. L. DeBellis, J. Markham, R. Davis, L. M. L. Laurens, P. T. Pienkos, S. M. Cook, T. J. Strathmann, and J. S. Guest. *Environ. Sci. Technol.*, **2018**, *52* (22), 13591-13599.
+S. Leow, B. D. Shoener, **Y. Li**, J. L. DeBellis, J. Markham, R. Davis, L. M. L. Laurens, P. T. Pienkos, S. M. Cook, T. J. Strathmann, and J. S. Guest. *Environ. Sci. Technol.* **2018**, *52* (22), 13591-13599.
 
 ---
 
@@ -202,7 +202,7 @@ S. Leow, B. D. Shoener, **Y. Li**, J. L. DeBellis, J. Markham, R. Davis, L. M. L
 
 Design, demonstration, and economic anlaysis of an aqueous-based system for the conversion of wastewater-derived algae and upgrading of crude products.
 
-**Y. Li**, W. A. Tarpeh, K. L. Nelson, and T. J. Strathmann. *Environ. Sci. Technol.*, **2018**, *52* (21), 12717-12727.
+**Y. Li**, W. A. Tarpeh, K. L. Nelson, and T. J. Strathmann. *Environ. Sci. Technol.* **2018**, *52* (21), 12717-12727.
 
 ---
 
@@ -216,7 +216,7 @@ Design, demonstration, and economic anlaysis of an aqueous-based system for the 
 
 A multiphase component additivity (MCA) model to quantitatively predict both yields and characteristics of products from hydrothermal liquefaction of microalgae.
 
-**Y. Li**, S. Leow, A. C. Fedders, B. K. Sharma, J. S. Guest, and T. J. Strathmann. *Green Chem.*, **2017**, *19* (4), 1163-1174.
+**Y. Li**, S. Leow, A. C. Fedders, B. K. Sharma, J. S. Guest, and T. J. Strathmann. *Green Chem.* **2017**, *19* (4), 1163-1174.
 
 ---
 

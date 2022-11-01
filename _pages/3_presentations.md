@@ -10,7 +10,12 @@ Select conference presentations.
 
 ### 2022
 
-`23.` <u>J. S. Guest</u>, <u>D.M. Byrne</u>, S.M. Cook, <u>R.D. Cusick</u>, **<u>Y. Li</u>**, <u>W. A. Tarpeh</u>. Introducing Quantitative Sustainable Design (QSD) as a Structured Approach for Research and Education (Workshop). *AEESP Research and Education Conference*, St. Louis, MO, United States, June 28-30, 2022. [Workshop materials](https://uofi.box.com/s/o8vvpxzhydd3g7qw9i4zljzc13kygmd4).
+`24.` **<u>Y. Li</u>** and <u>J. S. Guest</u>. Research Prioritization and Systems-Level Optimization: Advancing Precision Fermentation in an Urban Context (Invited Talk). *Precision Fermentation and Sustainability: Urban Solutions for Singapore*, Singapore/Online, September 16, 2022.
+
+<img src='../images/presentations/PreFerS_2022.png#border' alt='PreFerS workshop' width='50%' id='image'>
+
+
+`23.` <u>J. S. Guest</u>, <u>D. M. Byrne</u>, S.M. Cook, <u>R. D. Cusick</u>, **<u>Y. Li</u>**, <u>W. A. Tarpeh</u>. Introducing Quantitative Sustainable Design (QSD) as a Structured Approach for Research and Education (Workshop). *AEESP Research and Education Conference*, St. Louis, MO, United States, June 28-30, 2022. [Workshop materials](https://uofi.box.com/s/o8vvpxzhydd3g7qw9i4zljzc13kygmd4).
 
 <img src='../images/presentations/AEESP_2022.png#border' alt='AEESP workshop' width='60%' id='image'>
 
@@ -30,13 +35,13 @@ Select conference presentations.
 
 `20.` **<u>Y. Li</u>**, G. A. Kontos, N. Avila, D. V. Cabrera, M. Viswanathan, V. Singh, R. A. Labatut, and J. S. Guest. Design of a Small-footprint Wastewater Treatment and Energy Recovery Process for Biorefineries. *International Conference on Resource Sustainability (Virtual)*, July 19-23, 2021.
 
-<img src='../images/presentations/icRS_2021.png#border' alt='icRS presentation' width='50%' id='image'>
+<img src='../images/presentations/icRS_2021.png#border' alt='icRS presentation' width='60%' id='image'>
 
 <br>
 
 `19.` **<u>Y. Li</u>**. Advancing the Sustainability of Engineered Systems through Experimentation and Quantitative Sustainable Design (QSD) (Invited talk). *AEESP AJAR Future Faculty Seminar Series (Virtual)*. March 12, 2021. [YouTube link](https://www.youtube.com/watch?v=IUAvIS0r8NE).
 
-<img src='../images/presentations/AJAR_2021.png#border' alt='AJAR presentation' width='50%' id='image'>
+<img src='../images/presentations/AJAR_2021.png#border' alt='AJAR presentation' width='60%' id='image'>
 
 <br>
 
@@ -44,7 +49,7 @@ Select conference presentations.
 
 `18.` **<u>Y. Li</u>**, S. S. Bhagwat, Y. Cortes-Peña, D. Ki, C. V. Rao, Y.-S. Jin, and J. S. Guest, Sustainable Lactic Acid Production from Lignocellulosic Biomass. *2nd Bioenergy Sustainability Conference (Virtual)*, October 13-15, 2020.
 
-<img src='../images/presentations/BSC_2020.png#TOC' alt='BSC presentation' id='image'>
+<img src='../images/presentations/BSC_2020.png#border' alt='BSC presentation' width='60%' id='image'>
 
 <br>
 
@@ -56,7 +61,7 @@ Select conference presentations.
 
 `15.` **<u>Y. Li</u>**, S. Leow, T. Dong, L.M.L. Laurens, P.T. Pienkos, J.S. Guest, and T.J. Strathmann. Demonstration and Evaluation of Integrated Microalgae Systems for Biofuel Production (Invited  talk for Gonter Award). *258<sup>th</sup> ACS National Meeting & Exposition*, San Diego, CA, United States, August 25-29, 2019.
 
-<img src='../images/presentations/ACS_2019.png#border' alt='ACS Gonter presentation' width='40%' id='image'>
+<img src='../images/presentations/ACS_2019.png#border' alt='ACS Gonter presentation' width='50%' id='image'>
 
 <br>
 
@@ -64,7 +69,7 @@ Select conference presentations.
 
 `13.` **<u>Y. Li</u>**, S. Leow, W. A. Tarpeh, T. Dong, N. J. Nagle, E. P. Knoshaug, L. M. L. Laurens, P. Tienkos, K. L. Nelson, J. S. Guest, and T. J. Strathmann (Poster). Advancing Resource Recovery from Wastewater: Part 1 – Aqueous Conversion Processes for Algal Biomass. *AEESP Research and Education Conference*, Arizona State University, Tempe, AZ, United States, May 14-16, 2019.
 
-<img src='../images/presentations/AEESP_2019.png#border' alt='AEESP posters' width='60%' id='image'>
+<img src='../images/presentations/AEESP_2019.png#border' alt='AEESP posters' width='80%' id='image'>
 
 <br>
 
@@ -74,7 +79,7 @@ Select conference presentations.
 
 `11.` **<u>Y. Li</u>**, W. Tarpeh, K. L. Nelson, and T. J. Strathmann. Complete Valorization of Wastewater Algae via an Integrated Thermo- and Electrochemical Processing Strategy (Oral). *256<sup>th</sup> ACS National Meeting & Exposition*, Boston, MA, United States, August 19-23, 2018.
 
-<img src='../images/presentations/ACS_2018.png#border' alt='ACS presentation' width='40%' id='image'>
+<img src='../images/presentations/ACS_2018.png#border' alt='ACS presentation' width='50%' id='image'>
 
 <br>
 
@@ -92,7 +97,7 @@ Select conference presentations.
 
 `5.` **<u>Y. Li</u>**, S. Leow, A. C. Fedders, J. S. Guest, and T. J. Strathmann. Quantitative Evaluation of Hydrothermal Liquefaction for Algal Biomass Valorization (Poster). *AEESP Research and Education Conference*, Ann Arbor, MI, United States, June 20-22, 2017.
 
-<img src='../images/presentations/AEESP_2017.png#border' alt='AEESP poster' width='40%' id='image'>
+<img src='../images/presentations/AEESP_2017.png#border' alt='AEESP poster' width='50%' id='image'>
 
 <br>
 
@@ -106,6 +111,6 @@ Select conference presentations.
 
 `1.` **<u>Y. Li</u>**, S. Leow, J. S. Guest, and T. J. Strathmann. A Quantitative Multiphase Component Additivity Model for Hydrothermal Liquefaction of Microalgae (Poster). *STREAM (Skills, Technology, Research and Management) Challenge Week*, Torquay, UK, July 10-15, 2016.
 
-<img src='../images/presentations/STREAM.jpg#center' alt='ReNUWIt group' width='60%' id='image'>
+<img src='../images/presentations/STREAM_2016.jpg#center' alt='ReNUWIt group' width='60%' id='image'>
 <br>
 <center> <i> The ReNUWIt group at the STREAM challenge week hosted by the University of Exeter. </i> </center>

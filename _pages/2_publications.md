@@ -6,23 +6,33 @@ permalink: /publications/
 
 ## Peer-reviewed papers
 
-This list was updated on September 2022, for the most up-to-date list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en) page.
+This list was updated on November 2022, for the most up-to-date list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en) page.
 
 <br>
 
+### 2023
+
+`19.` [Rewiring yeast metabolism for producing 2,3-butanediol and two downstream applications: techno-economic analysis and life cycle assessment of methyl ethyl ketone (MEK) and agricultural biostimulant production](https://www.doi.org/10.1016/j.cej.2022.138886)
+
+![TOC figure](https://ars.els-cdn.com/content/image/1-s2.0-S1385894722043650-ga1_lrg.jpg#TOC)
+
+An engineered *Saccharomyces cerevisiae* capable of producing 2,3-butanediol (2,3-BDO) from glucose without accumulating ethanol and glycerol was constructed in this work. Techno-economic analysis (TEA) and life cycle assessment (LCA) of the production of methyl ethyl ketone (MEK) through catalytic dehydration of 2,3-BDO was performed and demonstrated the feasibility of cost-competitive and sustainable bio-based MEK production via yeast fermentation. Further, the fermentation broth containing 2,3-BDO was also tested in *Arabidopsis thaliana* for its potential to be used as a biostimulant, proving the broth could induce drought tolerance without a complicated purification process.
+
+J. W. Lee, S. S. Bhagwat, N. Kuanyshev, Y. B. Cho, L. Sun, Y.-G. Lee, Y. R. Cortés-Peña, **Y. Li**, C. V. Rao, J. S. Guest, Y.-S. Jin. *Chem. Eng. J.* **2023**, *451*, 138886.
+
 ### 2022
 
-`19.` [Quantitative Sustainable Design (QSD) for the Prioritization of Research, Development, and Deployment of Technologies: A Tutorial and Review](https://www.doi.org/10.1039/d2ew00431c)
+`18.` [Quantitative Sustainable Design (QSD) for the Prioritization of Research, Development, and Deployment of Technologies: A Tutorial and Review](https://www.doi.org/10.1039/d2ew00431c)
 
 ![TOC figure](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D2EW00431C&imageInfo.ImageIdentifier.Year=2022#TOC)
 
 Research, development, and deployment (RD&D) of innovative technologies are often impeded by the lack of transparent, systematic, and agile approaches to prioritize investment across the expansive landscape of technologies and design/operational decisions. This tutorial review synthesizes research on sustainability analyses to present Quantitative Sustainable Design (QSD) – a structured methodology to expedite the RD&D of water, sanitation, and resource recovery technologies.
 
-**Y. Li**, J. T. Trimmer, S. Hand, X. Zhang, K. G. Chambers, H. A. C. Lohman, R. Shi, D. M. Byrne, S. M. Cook, and J. S. Guest. *Environ. Sci.: Water Res. Technol.* Accepted, **2022**. DOI: 10.1039/d2ew00431c.
+**Y. Li**, J. T. Trimmer, S. Hand, X. Zhang, K. G. Chambers, H. A. C. Lohman, R. Shi, D. M. Byrne, S. M. Cook, and J. S. Guest. *Environ. Sci.: Water Res. Technol.* **2022**, *8* (11), 2439-2465.
 
 ---
 
-`18.` [MOF-derived Co<sub>3</sub>O<sub>4</sub> Nanoparticles Catalyzing Hydrothermal Deoxygenation of Fatty Acids for Alkanes Production](https://www.doi.org/10.1021/acsomega.2c04382)
+`17.` [MOF-derived Co<sub>3</sub>O<sub>4</sub> Nanoparticles Catalyzing Hydrothermal Deoxygenation of Fatty Acids for Alkanes Production](https://www.doi.org/10.1021/acsomega.2c04382)
 
 ![TOC figure](https://pubs.acs.org/cms/10.1021/acsomega.2c04382/asset/images/large/ao2c04382_0007.jpeg#TOC)
 
@@ -32,23 +42,13 @@ J. Zhang, **Y. Li**, D. Zeng, T. Xia. *ACS Omega* **2022**, *7* (37), 33482–33
 
 ---
 
-`17.` [Rewiring yeast metabolism for producing 2,3-butanediol and two downstream applications: techno-economic analysis and life cycle assessment of methyl ethyl ketone (MEK) and agricultural biostimulant production](https://www.doi.org/10.1016/j.cej.2022.138886)
-
-![TOC figure](https://ars.els-cdn.com/content/image/1-s2.0-S1385894722043650-ga1_lrg.jpg#TOC)
-
-An engineered *Saccharomyces cerevisiae* capable of producing 2,3-butanediol (2,3-BDO) from glucose without accumulating ethanol and glycerol was constructed in this work. Techno-economic analysis (TEA) and life cycle assessment (LCA) of the production of methyl ethyl ketone (MEK) through catalytic dehydration of 2,3-BDO was performed and demonstrated the feasibility of cost-competitive and sustainable bio-based MEK production via yeast fermentation. Further, the fermentation broth containing 2,3-BDO was also tested in *Arabidopsis thaliana* for its potential to be used as a biostimulant, proving the broth could induce drought tolerance without a complicated purification process.
-
-J. W. Lee, S. S. Bhagwat, N. Kuanyshev, Y. B. Cho, L. Sun, Y.-G. Lee, Y. R. Cortés-Peña, **Y. Li**, C. V. Rao, J. S. Guest, Y.-S. Jin. *Chem. Eng. J.* **2023**, *451*, 138886.
-
----
-
 `16.` [Financial Viability and Environmental Sustainability of Fecal Sludge Treatment with Omni Processors](https://pubs.acs.org/doi/10.1021/acsenvironau.2c00022)
 
 ![TOC figure](https://pubs.acs.org/cms/10.1021/acsenvironau.2c00022/asset/images/medium/vg2c00022_0006.gif#TOC)
 
  In this study, QSDsan was used to characterize the financial viability and environmental implications of fecal sludge treatment via pyrolysis-based omni processor technology (biogenic refinery) treating mixed and source-separated human excreta and to elucidate the key drivers of system sustainability.
 
-L.S. Rowles, V.L. Morgan, **Y. Li**, X. Zhang, S. Watabe, T. Stephen, H.A.C. Lohman, D. DeSouza, J. Hallowell, R.D. Cusick, J.S. Guest. *ACS Environmental Au* **2022**, *2* (5), 455–466.
+L. S. Rowles, V. L. Morgan, **Y. Li**, X. Zhang, S. Watabe, T. Stephen, H. A. C. Lohman, D. DeSouza, J. Hallowell, R. D. Cusick, J. S. Guest. *ACS Environmental Au* **2022**, *2* (5), 455–466.
 
 ---
 

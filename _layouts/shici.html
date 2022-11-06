@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<head>
+  {% include head.html %}
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+
+<html>
+
+<head>
+<style>
+header {
+  background-image: url('../images/shici/polayoutu-00039.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+</head>
+
+<header>
+<h1 style="color:black;">
+<script src="https://sdk.jinrishici.com/v2/browser/jinrishici.js" charset="utf-8"></script>
+<div id="poem_sentence"></div>
+<div id="poem_info"></div>
+<script type="text/javascript">
+  jinrishici.load(function(result) {
+    var sentence = document.querySelector("#poem_sentence")
+    var info = document.querySelector("#poem_info")
+    sentence.innerHTML = result.data.content
+    info.innerHTML = '【' + result.data.origin.dynasty + '】' + result.data.origin.author + '《' + result.data.origin.title + '》'
+  });
+</script>
+</h1>
+</header>
+
+<aside>
+  <div class="container">
+    <nav>
+      <ul>
+        <!-- the index/home page -->
+        <li><a href="{{ '/index' | prepend: site.baseurl }}">Home</a></li>
+        <!-- other content pages -->
+        {% for page in site.pages %} {% if page.title %}
+        <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+        {% endif %} {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</aside>
+<main>
+
+<article>{{ content }}</article>
+
+<!-- footer -->
+{% include footer.html %}
+
+</main>
+</body>
+</html>

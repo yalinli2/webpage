@@ -6,11 +6,31 @@ permalink: /publications/
 
 ## Peer-reviewed papers
 
-This list was updated on November 2022, for the most up-to-date list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en) page.
+This list was updated on February 2023, for the most up-to-date list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en) page.
 
 <br>
 
 ### 2023
+
+`21.` [Design of a High-Rate Wastewater Treatment Process for Energy and Water Recovery at Biorefineries](https://pubs.acs.org/doi/10.1021/acssuschemeng.2c07139)
+
+![TOC figure](https://pubs.acs.org/cms/10.1021/acssuschemeng.2c07139/asset/images/medium/sc2c07139_0007.gif#TOC)
+
+This work introduces a high-rate, multistage anaerobic wastewater treatment process that has the potential to substantially improve the economic and environmental sustainability of biorefineries.
+
+**Y. Li**, G. A. Kontos, D. V. Cabrera, N. M. Avila, T. W. Parkinson, M. B. Viswanathan, V. Singh, F. Altpeter, R. A. Labatut, J. S. Guest. *ACS Sustainable Chem. Eng.* In Press, 2023.
+
+---
+
+`20.` [Implications of Biorefinery Policy Incentives and Location-Specific Economic Parameters for the Financial Viability of Biofuels](https://pubs.acs.org/doi/full/10.1021/acs.est.2c07936)
+
+![TOC figure](https://pubs.acs.org/cms/10.1021/acs.est.2c07936/asset/images/medium/es2c07936_0005.gif#TOC)
+
+This study evaluates the influence of U.S. state-level tax incentives and economic parameters on cellulosic and conventional biofuel production costs.
+
+D. W. Stewart, Y. R. Cortés-Peña, **Y. Li**, A. S. Stillwell, M. Khanna, J. S. Guest. *Environ. Sci. Technol.* **2023**, *57* (6), 2262–2271.
+
+---
 
 `19.` [Rewiring yeast metabolism for producing 2,3-butanediol and two downstream applications: techno-economic analysis and life cycle assessment of methyl ethyl ketone (MEK) and agricultural biostimulant production](https://www.doi.org/10.1016/j.cej.2022.138886)
 

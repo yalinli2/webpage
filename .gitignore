@@ -19,8 +19,6 @@
 _build
 _site
 build
-# conftest is used for local testing only
-conftest.py
 docs/build/*
 dist
 htmlcov

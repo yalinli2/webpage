@@ -23,7 +23,9 @@ layout: index
 
 Welcome to my website!
 
-I am a Research Scientist at the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu). I am affiliated with the [Institute of Sustainability, Energy, and Environment (iSEE)](https://sustainability.illinois.edu) and the [Center for Advanced Bioenergy and Bioproducts Innovation (CABBI)](https://cabbi.bio).
+Starting Fall 2023, I will join the [Department of Civil and Environmental Engineering](https://cee.rutgers.edu) at Rutgers University-New Brunswick as an Assistant Professor. This webpage will retire and you will be redirected to my future [group website](https://yalinli.group).
+
+I am currently a Research Scientist at the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu). I am affiliated with the [Institute of Sustainability, Energy, and Environment (iSEE)](https://sustainability.illinois.edu) and the [Center for Advanced Bioenergy and Bioproducts Innovation (CABBI)](https://cabbi.bio).
 
 My [research](/research/) focuses on the experimental development of thermochemical/catalytic technologies and the design of water and energy infrastructure. Recent research projects include sanitation and resource recovery systems, bioenergy and bioproducts, and the development of open-source tools for sustainability analyses and decision-making.
 

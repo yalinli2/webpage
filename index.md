@@ -23,7 +23,7 @@ layout: index
 
 Welcome to my website!
 
-Starting Fall 2023, I will join the [Department of Civil and Environmental Engineering](https://cee.rutgers.edu) at Rutgers University-New Brunswick as an Assistant Professor. This webpage will retire and you will be redirected to my future [group website](https://yalinli.group).
+**Starting Fall 2023, I will join the Department of [Civil and Environmental Engineering](https://cee.rutgers.edu) at Rutgers University-New Brunswick as an Assistant Professor. This webpage will retire and you will be redirected to my future [group website](https://yalinli.group).**
 
 I am currently a Research Scientist at the [University of Illinois Urbana-Champaign (UIUC)](https://illinois.edu). I am affiliated with the [Institute of Sustainability, Energy, and Environment (iSEE)](https://sustainability.illinois.edu) and the [Center for Advanced Bioenergy and Bioproducts Innovation (CABBI)](https://cabbi.bio).
 

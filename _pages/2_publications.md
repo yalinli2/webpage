@@ -58,7 +58,7 @@ Research, development, and deployment (RD&D) of innovative technologies are ofte
 
 In this study, the metal–organic framework (MOF) was applied as a precursor template to synthesize Co<sub>3</sub>O<sub>4</sub> nanoparticles with a carbon matrix shell (M-Co3O4). The effects of catalyst dosage, methanol dosage, water dosage, temperature, and reaction time on catalytic efficiency were examined with stearic acid as the model reactant. Under the designed condition, M-Co3O4 exhibited high catalytic performance and the catalyst showed higher conversion of stearic acid (98.7%) and selectivity toward C8–C18 alkanes (92.2%) in comparison with Pt/C (95.8% conversion and 93.2% selectivity toward C8–C18). The catalysts were also characterized by a series of characterization techniques including electron microscopy (SEM), high-resolution transmission electron microscopy (HRTEM), X-ray powder diffraction (XRD), X-ray photoelectron spectroscopy (XPS), nitrogen adsorption isotherms (Brunauer–Emmett–Teller (BET) method), and thermogravimetric analysis (TGA). Finally, we proposed that decarbonization (deCO) could be the presumably mechanistic pathway for the production of C8–C18 alkanes from the decomposition of stearic acid.
 
-J. Zhang, **Y. Li**, D. Zeng, T. Xia. *ACS Omega* **2022**, *7* (37), 33482–33490.
+D. Zeng, **Y. Li**, T. Xia, F. Cui, and J. Zhang. *ACS Omega* **2022**, *7* (37), 33482–33490.
 
 ---
 

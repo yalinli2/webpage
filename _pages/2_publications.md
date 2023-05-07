@@ -6,11 +6,29 @@ permalink: /publications/
 
 ## Peer-reviewed papers
 
-This list was updated on February 2023, for the most up-to-date list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en) page.
-
-<br>
+For the most up-to-date list, please refer to my [Google Scholar](https://scholar.google.com/citations?user=5Zv3mM0AAAAJ&hl=en) page.
 
 ### 2023
+
+`23.` [Advancing the economic and environmental sustainability of the NEWgenerator non-sewered sanitation system](https://pubs.acs.org/doi/10.1021/acsenvironau.3c00001)
+
+![TOC figure](https://pubs.acs.org/cms/10.1021/acsenvironau.3c00001/asset/images/medium/vg3c00001_0008.gif#TOC)
+
+Achieving safely managed sanitation and resource recovery in areas that are rural, geographically challenged, or experiencing rapidly increasing population density may not be feasible with centralized facilities due to space requirements, site-specific concerns, and high costs of sewer installation. Nonsewered sanitation (NSS) systems have the potential to provide safely managed sanitation and achieve strict wastewater treatment standards. One such NSS treatment technology is the NEWgenerator, which includes an anaerobic membrane bioreactor (AnMBR), nutrient recovery via ion exchange, and electrochlorination. The system has been shown to achieve robust treatment of real waste for over 100 users, but the technology’s relative life cycle sustainability remains unclear. This study characterizes the financial viability and life cycle environmental impacts of NEWgenerator and prioritizes opportunities to advance system sustainability through targeted improvements and deployment.
+
+S. Watabe, H. A. C. Lohman, Y. Li, V. L. Morgan, L. S. Rowles, T. Stephen, H.-Y. Shyu, R. A. Bair, C. J. Castro, R. D. Cusick, D. H. Yeh, and J. S. Guest. *ACS Environmental Au* In Press, 2023.
+
+---
+
+`22.` [DMsan: A multi-criteria decision analysis framework and package to characterize contextualized sustainability of sanitation and resource recovery technologies](https://pubs.acs.org/doi/10.1021/acsenvironau.2c00067)
+
+![TOC figure](https://pubs.acs.org/cms/10.1021/acsenvironau.2c00067/asset/images/medium/vg2c00067_0008.gif#TOC)
+
+In resource-limited settings, conventional sanitation systems often fail to meet their goals – with system failures stemming from a mismatch among community needs, constraints, and deployed technologies. This work introduces a multi-criteria decision analysis framework and the open-source tool DMsan for the sustainability analyses of sanitation and resource recovery technologies.
+
+H. A. C. Lohman, V. L. Morgan, **Y. Li**, L. S. Rowles, X. Zhang, R. D. Cusick, S. M. Cook, and J. S. Guest.  *ACS Environmental Au* In Press, 2023.
+
+---
 
 `21.` [Design of a High-Rate Wastewater Treatment Process for Energy and Water Recovery at Biorefineries](https://pubs.acs.org/doi/10.1021/acssuschemeng.2c07139)
 
@@ -18,7 +36,7 @@ This list was updated on February 2023, for the most up-to-date list, please ref
 
 This work introduces a high-rate, multistage anaerobic wastewater treatment process that has the potential to substantially improve the economic and environmental sustainability of biorefineries.
 
-**Y. Li**, G. A. Kontos, D. V. Cabrera, N. M. Avila, T. W. Parkinson, M. B. Viswanathan, V. Singh, F. Altpeter, R. A. Labatut, J. S. Guest. *ACS Sustainable Chem. Eng.* In Press, 2023.
+**Y. Li**, G. A. Kontos, D. V. Cabrera, N. M. Avila, T. W. Parkinson, M. B. Viswanathan, V. Singh, F. Altpeter, R. A. Labatut, and J. S. Guest. *ACS Sustainable Chem. Eng.* **2023**, *11* (9), 3861–3872.
 
 ---
 
@@ -28,7 +46,7 @@ This work introduces a high-rate, multistage anaerobic wastewater treatment proc
 
 This study evaluates the influence of U.S. state-level tax incentives and economic parameters on cellulosic and conventional biofuel production costs.
 
-D. W. Stewart, Y. R. Cortés-Peña, **Y. Li**, A. S. Stillwell, M. Khanna, J. S. Guest. *Environ. Sci. Technol.* **2023**, *57* (6), 2262–2271.
+D. W. Stewart, Y. R. Cortés-Peña, **Y. Li**, A. S. Stillwell, M. Khanna, and J. S. Guest. *Environ. Sci. Technol.* **2023**, *57* (6), 2262–2271.
 
 ---
 
@@ -38,7 +56,7 @@ D. W. Stewart, Y. R. Cortés-Peña, **Y. Li**, A. S. Stillwell, M. Khanna, J. S.
 
 An engineered *Saccharomyces cerevisiae* capable of producing 2,3-butanediol (2,3-BDO) from glucose without accumulating ethanol and glycerol was constructed in this work. Techno-economic analysis (TEA) and life cycle assessment (LCA) of the production of methyl ethyl ketone (MEK) through catalytic dehydration of 2,3-BDO was performed and demonstrated the feasibility of cost-competitive and sustainable bio-based MEK production via yeast fermentation. Further, the fermentation broth containing 2,3-BDO was also tested in *Arabidopsis thaliana* for its potential to be used as a biostimulant, proving the broth could induce drought tolerance without a complicated purification process.
 
-J. W. Lee, S. S. Bhagwat, N. Kuanyshev, Y. B. Cho, L. Sun, Y.-G. Lee, Y. R. Cortés-Peña, **Y. Li**, C. V. Rao, J. S. Guest, Y.-S. Jin. *Chem. Eng. J.* **2023**, *451*, 138886.
+J. W. Lee, S. S. Bhagwat, N. Kuanyshev, Y. B. Cho, L. Sun, Y.-G. Lee, Y. R. Cortés-Peña, **Y. Li**, C. V. Rao, J. S. Guest, and Y.-S. Jin. *Chem. Eng. J.* **2023**, *451*, 138886.
 
 ### 2022
 
@@ -68,7 +86,7 @@ D. Zeng, **Y. Li**, T. Xia, F. Cui, and J. Zhang. *ACS Omega* **2022**, *7* (37)
 
  In this study, QSDsan was used to characterize the financial viability and environmental implications of fecal sludge treatment via pyrolysis-based omni processor technology (biogenic refinery) treating mixed and source-separated human excreta and to elucidate the key drivers of system sustainability.
 
-L. S. Rowles, V. L. Morgan, **Y. Li**, X. Zhang, S. Watabe, T. Stephen, H. A. C. Lohman, D. DeSouza, J. Hallowell, R. D. Cusick, J. S. Guest. *ACS Environmental Au* **2022**, *2* (5), 455–466.
+L. S. Rowles, V. L. Morgan, **Y. Li**, X. Zhang, S. Watabe, T. Stephen, H. A. C. Lohman, D. DeSouza, J. Hallowell, R. D. Cusick, and J. S. Guest. *ACS Environmental Au* **2022**, *2* (5), 455–466.
 
 ---
 
@@ -144,8 +162,6 @@ Sustainable design of lignocellulosic biorefineries for lactic acid production w
 
 ---
 
-<br>
-
 ### 2020
 
 `8.` [Fate of Per- and Polyfluoroalkyl Substances (PFAS) during Hydrothermal Liquefaction of Municipal Wastewater Treatment Sludge](https://pubs.rsc.org/en/content/articlelanding/2020/ew/c9ew01139k)
@@ -158,8 +174,6 @@ This study shows that PFAS sorbed to sludge degrade to varying degrees when slud
 J. Yu, A. Nickerson, **Y. Li**, Y. Fang, and T. J. Strathmann. *Environ. Sci.: Water Res. Technol.* **2020**, *6* (5), 1388–1399.
 
 ---
-
-<br>
 
 ### 2019
 
@@ -203,8 +217,6 @@ Experiments and model predictions show increased algal biofuel yields at lower p
 
 ---
 
-<br>
-
 ### 2018
 
 `3.` [A Unified Modeling Framework to Advance Biofuel Production from Microalgae](https://doi.org/10.1021/acs.est.8b03663)
@@ -227,8 +239,6 @@ Design, demonstration, and economic anlaysis of an aqueous-based system for the 
 
 ---
 
-<br>
-
 ### 2017
 
 `1.` [Quantitative Multiphase Model for Hydrothermal Liquefaction of Algal Biomass](https://pubs.rsc.org/en/content/articlelanding/2017/gc/c6gc03294j)
@@ -240,8 +250,6 @@ A multiphase component additivity (MCA) model to quantitatively predict both yie
 **Y. Li**, S. Leow, A. C. Fedders, B. K. Sharma, J. S. Guest, and T. J. Strathmann. *Green Chem.* **2017**, *19* (4), 1163-1174.
 
 ---
-
-<br>
 
 ## Public Media
 

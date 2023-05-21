@@ -4,15 +4,13 @@ Welcome to Yalin's webpage
 
 Status
 ------
-.. image:: https://img.shields.io/badge/status-live-brightgreen?style=flat
+.. image:: https://img.shields.io/badge/status-retired-orange?style=flat
    :target: https://yalinli.me
 
 
-What's here?
-------------
-This repository contains the source codes used to generate my `personal website <https://yalinli.me>`_. You are welcome to fork this repository and use for your personal sites. Feel free to post GitHub issues for questions or just chat.
-
-Acknowledgement to me is appreciated but not required. If you really want to say thank you, take a bus trip instead of driving, and say thank you to the bus driver.
+This webpage is retired!
+------------------------
+This repository contains the source codes used to generate my **now-retired** `personal website <https://yalinli.me>`_. Starting Fall 2023, I will join the Department of [Civil and Environmental Engineering](https://cee.rutgers.edu) at Rutgers University-New Brunswick as an Assistant Professor. Please visit my group website at [https://yalinli.group](https://yalinli.group) instead.
 
 
 Tips

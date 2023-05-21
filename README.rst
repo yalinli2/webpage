@@ -10,7 +10,7 @@ Status
 
 This webpage is retired!
 ------------------------
-This repository contains the source codes used to generate my **now-retired** `personal website <https://yalinli.me>`_. Starting Fall 2023, I will join the Department of [Civil and Environmental Engineering](https://cee.rutgers.edu) at Rutgers University-New Brunswick as an Assistant Professor. Please visit my group website at [https://yalinli.group](https://yalinli.group) instead.
+This repository contains the source codes used to generate my **now-retired** `personal website <https://yalinli.me>`_. Starting Fall 2023, I will join the Department of `Civil and Environmental Engineering <https://cee.rutgers.edu>`_ at Rutgers University-New Brunswick as an Assistant Professor. Please visit my group website at `https://yalinli.group <https://yalinli.group>`_ instead.
 
 
 Tips

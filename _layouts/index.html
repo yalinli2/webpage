@@ -1,19 +1,19 @@
----
-layout: default
----
-<!-- modified style -->
+<!DOCTYPE html>
 <head>
-<style>
-header {
-  background-image: url('../images/backgrounds/index.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;  
-  background-size: cover;
-}
-h1 {
-  color: #ffffff;
-}
-</style>
-</head>
+  {% include head.html %}
+<meta name='viewport' content='width=device-width, initial-scale=1'>
 
-{{ content }}
+<html>
+  {% include header.html %}
+  <br><br>
+
+<main>
+
+<article>{{ content }}</article>
+
+<!-- footer -->
+{% include footer.html %}
+
+</main>
+</body>
+</html>

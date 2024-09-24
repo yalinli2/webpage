@@ -267,8 +267,7 @@ GEM
       concurrent-ruby (~> 1.0)
     unicode-display_width (1.8.0)
     uri (0.13.1)
-    wdm (0.2.0)
-    webrick (1.8.1)
+    webrick (1.8.2)
 
 PLATFORMS
   x64-mingw-ucrt
@@ -276,7 +275,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  wdm (>= 0.1.0)
   webrick (~> 1.8)
 
 BUNDLED WITH
